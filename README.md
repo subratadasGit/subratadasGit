@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **BlockChain , React.js , Chainlink , Smart Contracts**
 
-💬 Ask me about **Node.js, React or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React or anything [here](https://github.com/subratadasGit/subatadasGit/issues)**
 
 ⚡ Fun fact **The term "coder" is often used interchangeably with "programmer" or "developer," but some argue that there are subtle distinctions. "Coder" may refer specifically to someone who writes code but might not necessarily be involved in the broader aspects of software design**
 
