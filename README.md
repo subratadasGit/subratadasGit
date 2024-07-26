@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-As a Block Chain Developer, I have a demonstrated ability to create and maintain high-quality Smart Contracts that are efficient, secure, and user-friendly. I have experience working with a variety of technologies, including HTML, CSS, JavaScript, React, Node.js, and MongoDB. I have a passion for developing and designing intuitive user experiences and believe that the development process should be user-centered.
+
 
 * 🌍  I'm based in India (Kolkata❤️)
 * ✉️  You can contact me at [subratadas786420@gmail.com](mailto:subratadas786420@gmail.com)
