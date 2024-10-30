@@ -1,69 +1,102 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subratadasGit.subratadasGit" />
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Subrata Das
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subrata+Das!;" />
-</h1>
+## Web Developer and Designer
 
-<h3 align="center">A passionate software developer from India(Kolkata)</h3>
+- 🌍  I'm based in India (Kolkata ❤️)  
+- ✉️  You can contact me at [subratadas786420@gmail.com](mailto:subratadas786420@gmail.com)  
+- 🧠  I'm learning Blockchain, Chainlink, and Machine Learning  
+- 🤝  I'm open to collaborating on Decentralized Apps, Cryptocurrency Integration, and Open-Source Projects  
+- ⚡  I love exploring the subtle distinctions between **coder, programmer, and developer.**  
 
-<br/>
+---
 
-<div align="center">
- 
- 🔭 I’m currently working on ** BlockChain Development**
- 
- 🌱 I’m currently learning **BlockChain , React.js , Chainlink , Smart Contracts**
+<a href="https://www.github.com/subratadasGit" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/subratadasGit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+<a href="https://www.x.com/Subrata786420" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/Subrata786420?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
-💬 Ask me about **Node.js, React or anything [here](https://github.com/subratadasGit/subatadasGit/issues)**
+---
 
-⚡ Fun fact **The term "coder" is often used interchangeably with "programmer" or "developer," but some argue that there are subtle distinctions. "Coder" may refer specifically to someone who writes code but might not necessarily be involved in the broader aspects of software design**
+### 🕹️ Play with the Snake Game  
+A fun addition to the README! Use your arrow keys to control the snake 🐍.  
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:subratadas80136@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<p align="center">
+  <img src="https://github.com/subratadasGit/subratadasGit/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+---
+
+### 💻 My GitHub Stats  
+<p align="center">
+  <a href="http://www.github.com/subratadasGit">
+    <img src="https://github-readme-stats.vercel.app/api?username=subratadasGit&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
   </a>
-  <a href="https://www.linkedin.com/in/subrata-das-1094a8253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</p>
+
+<p align="center">
+  <a href="http://www.github.com/subratadasGit">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=subratadasGit&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
   </a>
-  <a href="https://subratadasGit.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+</p>
+
+<p align="center">
+  <a href="https://github.com/subratadasGit">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratadasGit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
-</div>
+</p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,c++,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+---
 
-<br/>
-<hr/>
+### Socials  
+<p align="left">
+  <a href="https://discord.com/users/Subratadas786" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100004485137463" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.github.com/subratadasGit" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://hashnode.com/subratadasDev.hashnode.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/akashdas786420_" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/subrata-das-1094a8253/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.medium.com/subratadas786420" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.x.com/Subrata786420" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.threads.net/@akashdas786" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
+  </a>
+</p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+---
 
-<hr/>
+### 🎨 Coding-Inspired Animations  
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="500" height="300" alt="Coding Animation" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="300" alt="Coder at Work" />
+</p>
 
+---
 
-<br/><br/>
+### Badges  
 
-<hr/>
+<b>My GitHub Achievements</b>  
 
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subratadasGit&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+</p>
