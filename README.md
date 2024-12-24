@@ -57,7 +57,14 @@
 ![](https://github-stats-alpha.vercel.app/api?username=subratadasGit&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
 ![](https://github-readme-stats.vercel.app/api?username=subratadasGit&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=subratadasGit&theme=radical&hide_border=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subratadasGit&theme=radical)
+<div style="text-align: center;">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subratadasGit&theme=radical" 
+    alt="GitHub Profile Summary Card" 
+    style="width: 100%; max-width: 1200px; height: auto;"
+  />
+</div>
+
 
 # :trophy: My GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subratadasGit&theme=radical&no-frame=false&no-bg=true&margin-w=5)
