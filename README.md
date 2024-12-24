@@ -69,4 +69,9 @@
 
 # :trophy: My GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subratadasGit&theme=radical&no-frame=false&no-bg=true&margin-w=5)
+
+# :fountain_pen: Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+# :snake: Contribution Snake
+![](https://res.cloudinary.com/dmbxx03vp/image/upload/v1728586780/github-user-contribution_sdje0m.svg)
 ###
