@@ -61,9 +61,10 @@
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subratadasGit&theme=radical" 
     alt="GitHub Profile Summary Card" 
-    style="width: 100%; max-width: 1200px; height: auto;"
+    style="transform: scale(1.2); transform-origin: top center; display: inline-block;"
   />
 </div>
+
 
 
 # :trophy: My GitHub Trophies
