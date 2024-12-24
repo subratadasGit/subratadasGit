@@ -1,4 +1,12 @@
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQGPAXfs21icyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731678519907?e=1740614400&v=beta&t=Ucu27A6z3_5_4YcPkcpajWOFG1X5SjsosEh9zAMTpN0"  />
+</div>
+
 <h1 align="center">Hey , My Name is Subrata Das !</h1>
+
+<p align="center">Web Dev X Learner X Designer</p>
+
+###
 
 ###
 
