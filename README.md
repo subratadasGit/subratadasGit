@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey , My Name is Subrata Das !</h1>
 
-<h4 align="left">WebDev X Designer</h4>
+<h4 align="center">WebDev X Designer</h4>
 
 ###
 
