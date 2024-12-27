@@ -80,7 +80,7 @@
 
 ###
 
-<p align="left">* 🌍  I'm based in India (Kolkata❤️)<br>* - 📫 How to reach me **subratadasjobs01@gmail.com** 🧠  I'm learning Block Chain, Chain Link , Machine Learning<br>* 🤝  I'm open to collaborating on Decentralized apps , Crypto Currency Integration , Open-Sourse<br>* ⚡  The term "coder" is often used interchangeably with "programmer" or "developer," but some argue that there are subtle distinctions. "Coder" may refer specifically to someone who writes code but might not necessarily be involved in the broader aspects of software design</p>
+<p align="left">* 🌍  I'm based in India (Kolkata❤️)<br>* - 📫 How to reach me **subratadasjobs01@gmail.com** <br>  🧠  I'm learning Block Chain, Chain Link , Machine Learning<br>* 🤝  I'm open to collaborating on Decentralized apps , Crypto Currency Integration , Open-Sourse<br>* ⚡  The term "coder" is often used interchangeably with "programmer" or "developer," but some argue that there are subtle distinctions. "Coder" may refer specifically to someone who writes code but might not necessarily be involved in the broader aspects of software design</p>
 
 ###
 
