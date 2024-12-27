@@ -7,6 +7,7 @@
 <h4 align="center">WebDev X Designer</h4>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subratadasgit&label=Profile%20views&color=0e75b6&style=flat" alt="subratadasgit" /> </p>
 
 ###
 
