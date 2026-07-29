@@ -7,10 +7,13 @@
 
   1. Social links      → LinkedIn, X, Instagram, Discord, YouTube,
                          LeetCode, Codeforces, Stack Overflow,
-                         Medium, Dev.to, Hashnode, Portfolio
-  2. Featured Projects → repo URLs, live demo URLs, descriptions
-  3. Experience        → real years, roles, companies
-  4. Achievements      → real hackathons + certification links
+                         Medium, Dev.to, Hashnode
+                         (Portfolio, HackerRank, GfG already live)
+  2. Experience        → add internships / formal roles
+  3. Achievements      → add certifications + other hackathons
+  4. Rentify demo      → redeploy publicly if you want a live link;
+                         the old Vercel URL was a private dashboard link
+                         and chaintrack-sigma.vercel.app now 404s
   5. Workflows         → copy .github/workflows/* into the
                          subratadasGit/subratadasGit repo, then run
                          the "Generate Snake" action once
@@ -20,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:22D3EE&height=190&section=header&text=Subrata%20Das&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Web%20Developer%20%C2%B7%20Designer%20%C2%B7%20Blockchain&descSize=17&descAlignY=56" width="100%" alt="Subrata Das" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:22D3EE&height=190&section=header&text=Subrata%20Das&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Programmer%20by%20profession%2C%20dreamer%20by%20design&descSize=17&descAlignY=56" width="100%" alt="Subrata Das" />
 
 </div>
 
@@ -43,7 +46,7 @@
 
 <br />
 
-<em>I design the interface, write the contract behind it, and ship the whole thing.</em>
+<em>Full stack web, on-chain where it matters — 60 public repos and counting.</em>
 
 <br /><br />
 
@@ -53,7 +56,7 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=subratadasGit&style=flat-square&label=Profile+Views&color=8B5CF6" alt="Profile views" />
 &nbsp;
-<img src="https://img.shields.io/badge/Kolkata,%20India-0D1117?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="Location" />
+<img src="https://img.shields.io/badge/Belgharia,%20Kolkata-0D1117?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="Location" />
 
 <br /><br />
 
@@ -75,17 +78,19 @@
 <tr>
 <td width="62%" valign="top">
 
-**Full stack developer and designer from Kolkata**, working across the whole surface of a product — from the Figma frame to the deployed API. I care about interfaces that feel obvious and code that the next person can read.
+**Full stack developer and designer from Kolkata**, working across the whole surface of a product — from the Figma frame to the deployed API to the smart contract underneath it. I care about interfaces that feel obvious and code that the next person can read.
 
 <br />
 
-🔭 &nbsp;**Currently building** — decentralized apps and full stack web products
+🔭 &nbsp;**Currently building** — [Foodfit](https://github.com/subratadasGit/Foodfit), an AI meal planner on React 19 + Express + PostgreSQL
 
-🌱 &nbsp;**Currently learning** — Blockchain, Chainlink oracles, Machine Learning
+⛓️ &nbsp;**Shipped on-chain** — [Rentify](https://github.com/subratadasGit/Rentify-Real-Estate), a hybrid Web2 × Web3 property marketplace with NFT ownership certificates
+
+🌱 &nbsp;**Currently learning** — Chainlink oracles, Machine Learning, MCP tooling for AI agents
 
 🤝 &nbsp;**Open to collaborate on** — dApps, crypto integrations, open source
 
-💬 &nbsp;**Ask me about** — React, Node.js, Solidity, UI/UX, deployment
+💬 &nbsp;**Ask me about** — React, Node.js, Solidity, PostgreSQL, DSA in Java, UI/UX
 
 📫 &nbsp;**Reach me at** — [subratadasjobs01@gmail.com](mailto:subratadasjobs01@gmail.com)
 
@@ -224,83 +229,148 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/subratadasGit/your-repo-1">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=88&section=header&text=Project%20One&fontSize=28&fontColor=0D1117&fontAlignY=58" width="100%" alt="Project One" />
+<a href="https://github.com/subratadasGit/Rentify-Real-Estate">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=88&section=header&text=Rentify&fontSize=30&fontColor=0D1117&fontAlignY=58" width="100%" alt="Rentify" />
 </a>
 
-<b>Decentralized App Platform</b>
+<b>Hybrid Web2 × Web3 Real Estate Marketplace</b>
 
-<sub>A short, concrete sentence about what this actually does and who it is for. Replace with the real description.</sub>
+<sub>List, buy and sell property through a familiar web interface while smart contracts finalize the transaction on-chain. Clerk auth, Supabase storage, Razorpay payments with invoice generation, and NFT minting for ownership certificates.</sub>
 
-<sub><code>Next.js</code> <code>Solidity</code> <code>Hardhat</code> <code>Ethers.js</code> <code>Tailwind</code></sub>
+<sub><code>Next.js</code> <code>Solidity</code> <code>Foundry</code> <code>Ethers.js</code> <code>Supabase</code> <code>Clerk</code> <code>Razorpay</code></sub>
 
-<a href="https://github.com/subratadasGit/your-repo-1"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Code" /></a>
-<a href="https://your-demo-1.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Live Demo" /></a>
+<a href="https://github.com/subratadasGit/Rentify-Real-Estate"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Code" /></a>
+<a href="https://sepolia.etherscan.io/"><img src="https://img.shields.io/badge/Sepolia%20Testnet-0D1117?style=for-the-badge&logo=ethereum&logoColor=22D3EE" alt="Sepolia Testnet" /></a>
 <br />
-<img src="https://img.shields.io/github/stars/subratadasGit/your-repo-1?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Stars" />
+<img src="https://img.shields.io/github/stars/subratadasGit/Rentify-Real-Estate?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Stars" />
+<img src="https://img.shields.io/github/languages/top/subratadasGit/Rentify-Real-Estate?style=flat-square&labelColor=0D1117&color=06B6D4" alt="Top language" />
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/subratadasGit/your-repo-2">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=88&section=header&text=Project%20Two&fontSize=28&fontColor=0D1117&fontAlignY=58" width="100%" alt="Project Two" />
+<a href="https://foodfit-1-ck94.onrender.com/">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=88&section=header&text=Foodfit&fontSize=30&fontColor=0D1117&fontAlignY=58" width="100%" alt="Foodfit" />
 </a>
 
-<b>Full Stack Web Application</b>
+<b>AI Meal Planner &amp; Pantry Manager</b>
 
-<sub>A short, concrete sentence about what this actually does and who it is for. Replace with the real description.</sub>
+<sub>Generates recipes from whatever is actually in your pantry, then plans the week and builds the shopping list. Tracks expiry dates, nutrition data and dietary preferences behind JWT-protected routes.</sub>
 
-<sub><code>React</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>Prisma</code></sub>
+<sub><code>React 19</code> <code>Vite</code> <code>Tailwind</code> <code>Express 5</code> <code>PostgreSQL</code> <code>Sequelize</code> <code>Gemini</code></sub>
 
-<a href="https://github.com/subratadasGit/your-repo-2"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Code" /></a>
-<a href="https://your-demo-2.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Live Demo" /></a>
+<a href="https://github.com/subratadasGit/Foodfit"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Code" /></a>
+<a href="https://foodfit-1-ck94.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=render&logoColor=22D3EE" alt="Live Demo" /></a>
 <br />
-<img src="https://img.shields.io/github/stars/subratadasGit/your-repo-2?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Stars" />
+<img src="https://img.shields.io/github/stars/subratadasGit/Foodfit?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Stars" />
+<img src="https://img.shields.io/github/languages/top/subratadasGit/Foodfit?style=flat-square&labelColor=0D1117&color=06B6D4" alt="Top language" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/subratadasGit/your-repo-3">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:06B6D4&height=88&section=header&text=Project%20Three&fontSize=28&fontColor=0D1117&fontAlignY=58" width="100%" alt="Project Three" />
+<a href="https://github.com/subratadasGit/awesome-mcp-servers">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:06B6D4&height=88&section=header&text=Awesome%20MCP%20Servers&fontSize=24&fontColor=0D1117&fontAlignY=58" width="100%" alt="Awesome MCP Servers" />
 </a>
 
-<b>AI Powered Tool</b>
+<b>Curated Index of Model Context Protocol Servers</b>
 
-<sub>A short, concrete sentence about what this actually does and who it is for. Replace with the real description.</sub>
+<sub>A maintained list of MCP servers, frameworks and utilities that let AI models reach real context — files, databases, APIs and local tools. My most forked repository.</sub>
 
-<sub><code>Python</code> <code>LangChain</code> <code>OpenAI</code> <code>FastAPI</code></sub>
+<sub><code>MCP</code> <code>AI Tooling</code> <code>Open Source</code> <code>Documentation</code></sub>
 
-<a href="https://github.com/subratadasGit/your-repo-3"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Code" /></a>
-<a href="https://your-demo-3.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Live Demo" /></a>
+<a href="https://github.com/subratadasGit/awesome-mcp-servers"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Code" /></a>
+<a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/What%20is%20MCP%3F-0D1117?style=for-the-badge&logo=readthedocs&logoColor=22D3EE" alt="What is MCP" /></a>
 <br />
-<img src="https://img.shields.io/github/stars/subratadasGit/your-repo-3?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Stars" />
+<img src="https://img.shields.io/github/stars/subratadasGit/awesome-mcp-servers?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Stars" />
+<img src="https://img.shields.io/github/forks/subratadasGit/awesome-mcp-servers?style=flat-square&labelColor=0D1117&color=06B6D4" alt="Forks" />
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/subratadasGit/your-repo-4">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:A855F7&height=88&section=header&text=Project%20Four&fontSize=28&fontColor=0D1117&fontAlignY=58" width="100%" alt="Project Four" />
+<a href="https://portfolio-alpha-blush-44.vercel.app">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:A855F7&height=88&section=header&text=Portfolio&fontSize=30&fontColor=0D1117&fontAlignY=58" width="100%" alt="Portfolio" />
 </a>
 
-<b>Mobile Companion App</b>
+<b>Personal Portfolio &amp; Writing</b>
 
-<sub>A short, concrete sentence about what this actually does and who it is for. Replace with the real description.</sub>
+<sub>My own site — work, writing and contact in one place. Built on the Next.js App Router with MDX-driven content, <code>next-themes</code> light/dark switching and a Tailwind design system.</sub>
 
-<sub><code>React Native</code> <code>Expo</code> <code>Supabase</code></sub>
+<sub><code>Next.js 14</code> <code>TypeScript</code> <code>Tailwind</code> <code>MDX</code> <code>Vercel</code></sub>
 
-<a href="https://github.com/subratadasGit/your-repo-4"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Code" /></a>
-<a href="https://your-demo-4.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Live Demo" /></a>
+<a href="https://github.com/subratadasGit/portfolio"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Code" /></a>
+<a href="https://portfolio-alpha-blush-44.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Live Demo" /></a>
 <br />
-<img src="https://img.shields.io/github/stars/subratadasGit/your-repo-4?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Stars" />
+<img src="https://img.shields.io/github/stars/subratadasGit/portfolio?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Stars" />
+<img src="https://img.shields.io/github/languages/top/subratadasGit/portfolio?style=flat-square&labelColor=0D1117&color=06B6D4" alt="Top language" />
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>&nbsp;◈ &nbsp;More work &nbsp;<sub>(click to expand)</sub></b></summary>
+
+<br />
+
+<table>
+<tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th></tr>
+<tr>
+  <td><a href="https://github.com/subratadasGit/Visual_Question_Answering"><b>Visual Question Answering</b></a> ⭐1</td>
+  <td><sub>Ask questions about an image and get answers back — computer vision meets NLP, implemented in JavaScript.</sub></td>
+  <td><sub><code>JavaScript</code> <code>Deep Learning</code></sub></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/subratadasGit/IIT-KGP_Blockchain"><b>IIT-KGP Blockchain</b></a></td>
+  <td><sub>Project built for the East India Blockchain Summit at IIT Kharagpur.</sub></td>
+  <td><sub><code>TypeScript</code> <code>Solidity</code></sub></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/subratadasGit/SolidityNotes"><b>Solidity Notes</b></a> ⭐1</td>
+  <td><sub>A working reference for smart contract development — concepts, snippets, security patterns and best practices.</sub></td>
+  <td><sub><code>Solidity</code></sub></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/subratadasGit/ResumeAnalyzer"><b>Resume Analyzer</b></a></td>
+  <td><sub>Resume parsing and analysis app, containerised for deployment anywhere Docker runs.</sub></td>
+  <td><sub><code>React Router</code> <code>TypeScript</code> <code>Docker</code></sub></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/subratadasGit/document_verification_system"><b>Document Verification System</b></a></td>
+  <td><sub>Verifies document authenticity — built around tamper-evident record keeping.</sub></td>
+  <td><sub><code>JavaScript</code></sub></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/subratadasGit/decentralized-github-page"><b>Decentralized GitHub Page</b></a></td>
+  <td><sub>Experiment in serving a GitHub-style profile page from decentralized storage.</sub></td>
+  <td><sub><code>TypeScript</code></sub></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/subratadasGit/Restaurant-Table-Booking-System"><b>Restaurant Table Booking</b></a></td>
+  <td><sub>Reservation system with customer booking flow, status tracking and an admin panel for staff.</sub></td>
+  <td><sub><code>PHP</code> <code>JavaScript</code></sub></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/subratadasGit/javascript2024"><b>JavaScript 2024</b></a> ⭐1 &nbsp;🍴2</td>
+  <td><sub>Teaching repo — JavaScript fundamentals, forked and used by other learners.</sub></td>
+  <td><sub><code>JavaScript</code></sub></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/subratadasGit/Nodejs_practical_for_students"><b>Node.js for Students</b></a> ⭐1</td>
+  <td><sub>Practical Node.js exercises written for students to work through.</sub></td>
+  <td><sub><code>JavaScript</code> <code>Node.js</code></sub></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/subratadasGit/ReactTutorialBySubrata"><b>React Tutorial</b></a> ⭐1</td>
+  <td><sub>Step-by-step React walkthrough built as a teaching resource.</sub></td>
+  <td><sub><code>React</code> <code>CSS</code></sub></td>
+</tr>
+</table>
+
+</details>
+
 <div align="center">
-<a href="https://github.com/subratadasGit?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="All repositories" /></a>
+<a href="https://github.com/subratadasGit?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%2060%20repositories%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="All repositories" /></a>
 </div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%" alt="" /></div>
@@ -327,27 +397,30 @@
 <tr><td valign="top">
 
 ```
-◆  2026 — CURRENT FOCUS
-│  Blockchain · Chainlink oracles · Machine Learning
-│  Building decentralized apps end to end
+◆  2026 · NOW — FULL STACK + AI
+│  Foodfit — AI meal planner on React 19, Express 5, PostgreSQL, Gemini
+│  Personal portfolio shipped on Next.js 14 + MDX
+│  Teaching React through a public step-by-step tutorial repo
 │
-◆  2025 — PROJECTS
-│  Full stack web apps with React, Node.js and PostgreSQL
-│  Smart contract experiments on Polygon
+◆  2025 — WEB3 PRODUCTS & OPEN SOURCE
+│  Rentify — hybrid Web2 × Web3 property marketplace, Sepolia testnet
+│  awesome-mcp-servers — curated MCP index, my most forked repo
+│  Resume Analyzer — containerised React Router app
 │
-◆  2025 — INTERNSHIP
-│  Role · Company · duration
-│  One line on what you actually shipped
+◆  JAN 2025 — EAST INDIA BLOCKCHAIN SUMMIT · IIT KHARAGPUR
+│  Built and presented a blockchain project for the summit
+│  Visual Question Answering — computer vision × NLP
 │
-◆  2024 — ACHIEVEMENTS
-│  Competitive programming on HackerRank and GeeksforGeeks
-│  Open source contributions
+◆  2024 — FOUNDATIONS
+│  First smart contracts and blockchain apps in JavaScript
+│  DSA in Java: Striver A2Z sheet, NeetCode 150, GFG, LeetCode
+│  Coursework across PHP, PL/SQL, Django and Linux
 │
-◆  2023 — LEARNING
-   Foundations: DSA, web fundamentals, UI/UX design
+◆  JAN 2024 — JOINED GITHUB
+   60 public repositories since
 ```
 
-<sub><i>Replace the placeholder rows with your real roles, companies and dates.</i></sub>
+<sub><i>Add your internships and formal roles here — those are the one thing your public repos cannot tell me.</i></sub>
 
 </td></tr>
 </table>
@@ -403,37 +476,46 @@
 <tr>
 <td width="50%" valign="top">
 
-**🏆 &nbsp;Hackathons**
+**🏆 &nbsp;Events &amp; Summits**
 
 <sub>
-◈ &nbsp;<b>Hackathon name</b> — placement / role · year<br />
-◈ &nbsp;<b>Hackathon name</b> — placement / role · year<br />
-◈ &nbsp;<b>Hackathon name</b> — placement / role · year
+◈ &nbsp;<b>East India Blockchain Summit</b> — IIT Kharagpur · Jan 2025<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/subratadasGit/IIT-KGP_Blockchain">Project repository →</a><br />
+◈ &nbsp;<i>Add other hackathons and placements here</i>
 </sub>
 
 **🌐 &nbsp;Open Source**
 
 <sub>
-◈ &nbsp;Contributions to <a href="https://github.com/">project name</a><br />
-◈ &nbsp;Maintainer of <a href="https://github.com/">your project</a>
+◈ &nbsp;Maintainer of <a href="https://github.com/subratadasGit/awesome-mcp-servers">awesome-mcp-servers</a> — <b>4 stars · 6 forks</b><br />
+◈ &nbsp;Contributor to <a href="https://github.com/DevDisplay">DevDisplay</a> and <a href="https://github.com/CopilotKit/CopilotKit">CopilotKit</a><br />
+◈ &nbsp;<b>60 public repositories</b> · 12 followers
 </sub>
 
 </td>
 <td width="50%" valign="top">
 
+**⚔️ &nbsp;DSA &amp; Competitive Programming**
+
+<sub>
+◈ &nbsp;<a href="https://github.com/subratadasGit/StriverDSASheetNOTES455">Striver A2Z DSA Sheet</a> — worked notes in Java<br />
+◈ &nbsp;<a href="https://github.com/subratadasGit/NeetCode150">NeetCode 150</a> + <a href="https://github.com/subratadasGit/LeetCodeDope">LeetCode</a> practice sets<br />
+◈ &nbsp;<a href="https://www.hackerrank.com/profile/subratadas786420">HackerRank</a> · <a href="https://www.geeksforgeeks.org/user/subratadas786420/">GeeksforGeeks</a><br />
+◈ &nbsp;<a href="https://github.com/subratadasGit/ibm-coding-questions">IBM coding questions</a>
+</sub>
+
+**📚 &nbsp;Teaching &amp; Mentoring**
+
+<sub>
+◈ &nbsp;<a href="https://github.com/subratadasGit/Nodejs_practical_for_students">Node.js practicals for students</a> ⭐1<br />
+◈ &nbsp;<a href="https://github.com/subratadasGit/javascript2024">JavaScript 2024</a> — ⭐1 · forked by 2 learners<br />
+◈ &nbsp;<a href="https://github.com/subratadasGit/ReactTutorialBySubrata">React tutorial series</a> ⭐1
+</sub>
+
 **📜 &nbsp;Certifications**
 
 <sub>
-◈ &nbsp;<a href="#">Certification name</a> — issuer · year<br />
-◈ &nbsp;<a href="#">Certification name</a> — issuer · year<br />
-◈ &nbsp;<a href="#">Certification name</a> — issuer · year
-</sub>
-
-**⚔️ &nbsp;Competitive Programming**
-
-<sub>
-◈ &nbsp;<a href="https://www.hackerrank.com/profile/subratadas786420">HackerRank</a> — problem solving<br />
-◈ &nbsp;<a href="https://www.geeksforgeeks.org/user/subratadas786420/">GeeksforGeeks</a> — DSA practice
+◈ &nbsp;<i>Add certification name — issuer · year</i>
 </sub>
 
 </td>
@@ -497,7 +579,7 @@ To enable:
 <table>
 <tr>
 <td align="center" width="90"><a href="https://www.linkedin.com/in/your-handle"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a><br /><sub>LinkedIn</sub></td>
-<td align="center" width="90"><a href="https://your-portfolio.com"><img src="https://cdn.simpleicons.org/googlechrome/22D3EE" height="36" alt="Portfolio" /></a><br /><sub>Portfolio</sub></td>
+<td align="center" width="90"><a href="https://portfolio-alpha-blush-44.vercel.app"><img src="https://cdn.simpleicons.org/googlechrome/22D3EE" height="36" alt="Portfolio" /></a><br /><sub>Portfolio</sub></td>
 <td align="center" width="90"><a href="mailto:subratadasjobs01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a><br /><sub>Email</sub></td>
 <td align="center" width="90"><a href="https://x.com/your-handle"><img src="https://cdn.simpleicons.org/x/E0E0E0" height="34" alt="X" /></a><br /><sub>X</sub></td>
 <td align="center" width="90"><a href="https://instagram.com/your-handle"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a><br /><sub>Instagram</sub></td>
