@@ -1,111 +1,110 @@
 <div align="center">
-  <img height="200" src="[https://media.licdn.com/dms/image/v2/D5616AQGPAXfs21icyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731678519907?e=1740614400&v=beta&t=Ucu27A6z3_5_4YcPkcpajWOFG1X5SjsosEh9zAMTpN0](https://media.licdn.com/dms/image/v2/D5616AQGPAXfs21icyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731678519907?e=1746662400&v=beta&t=jyuITl80-fpxFzNfBiIK7QSTTQoww43NdPOC97ABOKc)"  />
-</div>
 
-<h1 align="center">Hey , My Name is Subrata Das !</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Subrata+Das;Web+Developer+%C3%97+Designer;Building+for+the+decentralized+web" alt="Subrata Das" />
 
-<h4 align="center">WebDev X Designer</h4>
-
-###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subratadasgit&label=Profile%20views&color=0e75b6&style=flat" alt="subratadasgit" /> </p>
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnM4ODFuaHM5eWJ6c3I0czRsangzZm9jNTh0bngzemMxNTAzNDZ3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3LKQGIc48tdE5uyZlU/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="40" alt="polygon logo"  />
-</div>
-
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/subratadas786420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/subratadas786420" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/subratadas786420/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/subratadas786420/" height="30" width="40" /></a>
+<p>
+  <a href="mailto:subratadasjobs01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.hackerrank.com/profile/subratadas786420"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.geeksforgeeks.org/user/subratadas786420/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <img src="https://komarev.com/ghpvc/?username=subratadasGit&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views" />
 </p>
 
-###
-
-<p align="left">* 🌍  I'm based in India (Kolkata❤️)<br>* - 📫 How to reach me **subratadasjobs01@gmail.com** <br>  🧠  I'm learning Block Chain, Chain Link , Machine Learning<br>* 🤝  I'm open to collaborating on Decentralized apps , Crypto Currency Integration , Open-Sourse<br>* ⚡  The term "coder" is often used interchangeably with "programmer" or "developer," but some argue that there are subtle distinctions. "Coder" may refer specifically to someone who writes code but might not necessarily be involved in the broader aspects of software design</p>
-
-###
-
-<p align="left"></p>
-
-# 📊 My GitHub Stats
-![](https://github-stats-alpha.vercel.app/api?username=subratadasGit&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
-![](https://github-readme-stats.vercel.app/api?username=subratadasGit&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=subratadasGit&theme=radical&hide_border=false)
-<div style="text-align: center;">
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subratadasGit&theme=radical" 
-    alt="GitHub Profile Summary Card" 
-    style="transform: scale(1.2); transform-origin: top center; display: inline-block;"
-  />
 </div>
 
+---
 
+## 🧑‍💻 About Me
 
-# :trophy: My GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=subratadasGit&theme=radical&no-frame=false&no-bg=true&margin-w=5)
+<img align="right" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnM4ODFuaHM5eWJ6c3I0czRsangzZm9jNTh0bngzemMxNTAzNDZ3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3LKQGIc48tdE5uyZlU/giphy.gif" alt="coding" />
 
-# :fountain_pen: Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-# :snake: Contribution Snake
-![](https://res.cloudinary.com/dmbxx03vp/image/upload/v1728586780/github-user-contribution_sdje0m.svg)
-###
+- 🌍 &nbsp;Based in **Kolkata, India** ❤️
+- 🧠 &nbsp;Currently learning **Blockchain**, **Chainlink** and **Machine Learning**
+- 🤝 &nbsp;Open to collaborating on **dApps**, **crypto integrations** and **open source**
+- 📫 &nbsp;Reach me at **subratadasjobs01@gmail.com**
+- ⚡ &nbsp;Fun fact: *"coder", "programmer" and "developer" get used interchangeably — but a coder writes the code, while a developer owns the design around it*
+
+<br clear="right" />
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
+
+**Web3 & Design**
+
+![Polygon](https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=subratadasGit&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratadasGit&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=subratadasGit&hide_border=true&theme=tokyonight" alt="streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=subratadasGit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://res.cloudinary.com/dmbxx03vp/image/upload/v1728586780/github-user-contribution_sdje0m.svg" alt="contribution snake" />
+</div>
+
+---
+
+<div align="center">
+
+### ✒️ Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+
+<br />
+
+**Thanks for stopping by — let's build something together!** ⭐
+
+</div>
