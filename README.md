@@ -9,9 +9,8 @@
                          Codeforces, Stack Overflow, Medium, Dev.to,
                          Hashnode
                          (LinkedIn, Portfolio, HackerRank, GfG are live)
-  2. Education         → confirm MCA institution + years
-  3. Experience        → add internships / formal roles
-  4. Achievements      → add certifications + other hackathons
+  2. Achievements      → add any further certifications / hackathons
+  3. HitBox role       → add "+5 skills" detail if you want it listed
   4. Rentify demo      → redeploy publicly if you want a live link;
                          the old Vercel URL was a private dashboard link
                          and chaintrack-sigma.vercel.app now 404s
@@ -37,17 +36,17 @@
 ║  ███████║╚██████╔╝██████╔╝██║  ██║██║  ██║   ██║   ██║  ██║  ║
 ║  ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝  ║
 ╠══════════════════════════════════════════════════════════════╣
-║    FULL STACK DEVELOPER  ·  BLOCKCHAIN  ·  KOLKATA, INDIA    ║
+║   SOFTWARE ENGINEER @ HITBOX  ·  MCA'25  ·  KOLKATA, INDIA   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2400&pause=700&color=A855F7&center=true&vCenter=true&width=640&height=44&lines=Full+Stack+Developer;Blockchain+Developer;React+%26+Node.js+Developer;Open+Source+Contributor;Software+Engineer;Tech+Enthusiast" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2400&pause=700&color=A855F7&center=true&vCenter=true&width=640&height=44&lines=Software+Engineer+%40+HitBox+Collectibles;Full+Stack+MERN+Developer;React+Native+Developer;Blockchain+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Roles" />
 
 <br />
 
-<em>Full stack web, on-chain where it matters — 60 public repos and counting.</em>
+<em>Software Engineer at HitBox Collectibles · MERN &amp; React Native by day, on-chain by night</em>
 
 <br /><br />
 
@@ -79,9 +78,11 @@
 <tr>
 <td width="62%" valign="top">
 
-**Full stack developer and designer from Kolkata**, working across the whole surface of a product — from the Figma frame to the deployed API to the smart contract underneath it. I care about interfaces that feel obvious and code that the next person can read.
+**Software Engineer at HitBox Collectibles**, working across the whole surface of a product — from the Figma frame to the deployed API to the smart contract underneath it. MCA from Heritage Institute of Technology, Kolkata. I care about interfaces that feel obvious and code that the next person can read.
 
 <br />
+
+💼 &nbsp;**Currently** — Software Engineer at **HitBox Collectibles**, on MERN and React Native
 
 🔭 &nbsp;**Currently building** — [Foodfit](https://github.com/subratadasGit/Foodfit), an AI meal planner on React 19 + Express + PostgreSQL
 
@@ -140,6 +141,15 @@
 <td align="center"><a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" height="44" alt="Redux" /></a><br /><sub><b>Redux</b></sub></td>
 <td align="center"><a href="https://vite.dev/guide/"><img src="https://skillicons.dev/icons?i=vite" height="44" alt="Vite" /></a><br /><sub><b>Vite</b></sub></td>
 </tr>
+<tr>
+<td align="center"><a href="https://angular.dev/overview"><img src="https://skillicons.dev/icons?i=angular" height="44" alt="Angular" /></a><br /><sub><b>Angular</b></sub></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
 
 <tr><td colspan="7"><b>&nbsp;⌬&nbsp; Backend</b></td></tr>
 <tr>
@@ -148,8 +158,8 @@
 <td align="center"><a href="https://www.prisma.io/docs"><img src="https://skillicons.dev/icons?i=prisma" height="44" alt="Prisma" /></a><br /><sub><b>Prisma</b></sub></td>
 <td align="center"><a href="https://graphql.org/learn/"><img src="https://skillicons.dev/icons?i=graphql" height="44" alt="GraphQL" /></a><br /><sub><b>GraphQL</b></sub></td>
 <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/REST"><img src="https://skillicons.dev/icons?i=postman" height="44" alt="REST API" /></a><br /><sub><b>REST API</b></sub></td>
-<td align="center"></td>
-<td align="center"></td>
+<td align="center"><a href="https://docs.spring.io/spring-boot/index.html"><img src="https://skillicons.dev/icons?i=spring" height="44" alt="Spring Boot" /></a><br /><sub><b>Spring Boot</b></sub></td>
+<td align="center"><a href="https://sequelize.org/docs/v6/"><img src="https://cdn.simpleicons.org/sequelize/52B0E7" height="40" alt="Sequelize" /></a><br /><sub><b>Sequelize</b></sub></td>
 </tr>
 
 <tr><td colspan="7"><b>&nbsp;⌬&nbsp; Database</b></td></tr>
@@ -398,34 +408,38 @@
 <tr><td valign="top">
 
 ```
-◆  2026 · NOW — FULL STACK + AI
-│  Foodfit — AI meal planner on React 19, Express 5, PostgreSQL, Gemini
-│  Personal portfolio shipped on Next.js 14 + MDX
-│  Teaching React through a public step-by-step tutorial repo
+◆  JUN 2026 – PRESENT   SOFTWARE ENGINEER · HitBox Collectibles
+│  Full-time · Kolkata, West Bengal · Hybrid
+│  MERN Stack · React Native · +5 skills
+│  Shipping alongside: Foodfit — AI meal planner
+│  (React 19 · Express 5 · PostgreSQL · Gemini)
 │
-◆  2025 — WEB3 PRODUCTS & OPEN SOURCE
-│  Rentify — hybrid Web2 × Web3 property marketplace, Sepolia testnet
-│  awesome-mcp-servers — curated MCP index, my most forked repo
-│  Resume Analyzer — containerised React Router app
+◆  SEP 2025 – JAN 2026   JAVA SOFTWARE DEVELOPER · Revature
+│  Apprenticeship · Chennai, Tamil Nadu · Remote
+│  Intensive Java full-stack program — Java, SQL, REST APIs,
+│  Spring Boot, Angular and DevOps fundamentals
+│  ✓ Certified: Pre-Training Employee
 │
-◆  JAN 2025 — EAST INDIA BLOCKCHAIN SUMMIT · IIT KHARAGPUR
+◆  APR 2025 – MAY 2025   SDE INTERN · Bluestock™
+│  Internship · India · Remote
+│
+◆  2025   WEB3 PRODUCTS & OPEN SOURCE
+│  Rentify — hybrid Web2 × Web3 marketplace on Sepolia testnet
+│  awesome-mcp-servers — curated MCP index, most forked repo
+│
+◆  JAN 2025   EAST INDIA BLOCKCHAIN SUMMIT · IIT KHARAGPUR
 │  Built and presented a blockchain project for the summit
-│  Visual Question Answering — computer vision × NLP
 │
-◆  2024 — FOUNDATIONS
+◆  2024   FOUNDATIONS
 │  First smart contracts and blockchain apps in JavaScript
-│  DSA in Java: Striver A2Z sheet, NeetCode 150, GFG, LeetCode
-│  Coursework across PHP, PL/SQL, Django and Linux
+│  DSA in Java — Striver A2Z, NeetCode 150, GFG, LeetCode
 │
-◆  JAN 2024 — JOINED GITHUB
-│  60 public repositories since
+╍╍╍  EDUCATION  ╍╍╍
 │
-◆  EDUCATION
-   MCA — Master of Computer Applications
-   Institution · graduation year  ← confirm and fill
+◆  MCA '25   Heritage Institute of Technology · Kolkata
+│
+◆  B.Sc      Computer Science
 ```
-
-<sub><i>Add your internships and formal roles here — those are the one thing your public repos cannot tell me.</i></sub>
 
 </td></tr>
 </table>
@@ -520,7 +534,9 @@
 **📜 &nbsp;Certifications**
 
 <sub>
-◈ &nbsp;<i>Add certification name — issuer · year</i>
+◈ &nbsp;<b>Certificate of Pre-Training Employee</b> — Revature · 2026<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<i>Java full-stack: Java, SQL, REST APIs, Spring Boot, Angular, DevOps</i><br />
+◈ &nbsp;<i>Add further certifications here</i>
 </sub>
 
 </td>
