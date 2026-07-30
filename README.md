@@ -223,8 +223,8 @@
 <tr><td colspan="7"><b>&nbsp;⌬&nbsp; Design &amp; AI</b></td></tr>
 <tr>
 <td align="center"><a href="https://help.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="44" alt="Figma" /></a><br /><sub><b>Figma</b></sub></td>
-<td align="center"><a href="https://www.canva.com/help/"><img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" /></a><br /><sub><b>Canva</b></sub></td>
-<td align="center"><a href="https://platform.openai.com/docs"><img src="https://cdn.simpleicons.org/openai/E0E0E0" height="40" alt="OpenAI" /></a><br /><sub><b>OpenAI</b></sub></td>
+<td align="center"><a href="https://www.canva.com/help/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" /></a><br /><sub><b>Canva</b></sub></td>
+<td align="center"><a href="https://platform.openai.com/docs"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" height="26" alt="OpenAI" /></a><br /><sub><b>&nbsp;</b></sub></td>
 <td align="center"><a href="https://ai.google.dev/gemini-api/docs"><img src="https://cdn.simpleicons.org/googlegemini/8E75FF" height="40" alt="Gemini" /></a><br /><sub><b>Gemini</b></sub></td>
 <td align="center"><a href="https://python.langchain.com/docs/"><img src="https://cdn.simpleicons.org/langchain/E0E0E0" height="40" alt="LangChain" /></a><br /><sub><b>LangChain</b></sub></td>
 <td align="center"></td>
@@ -450,10 +450,25 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=subratadasGit&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratadasGit&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_radius=12" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subratadasGit&theme=github_dark" width="88%" alt="Profile summary" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=subratadasGit&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&border_radius=12" alt="Streak" />
+<br /><br />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subratadasGit&theme=github_dark" alt="Stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=subratadasGit&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&border_radius=12" alt="Streak" />
+
+<!--
+  github-readme-stats' public instance returns HTTP 503 (over quota) as of
+  Jul 2026, so the cards above use github-profile-summary-cards instead.
+  To use github-readme-stats, deploy your own instance (2 min, free):
+    1. Fork https://github.com/anuraghazra/github-readme-stats
+    2. Import the fork at vercel.com/new, add a PAT_1 env var
+       (GitHub token with public_repo scope)
+    3. Swap the hostname below and uncomment
+
+  <img height="180" src="https://YOUR-INSTANCE.vercel.app/api?username=subratadasGit&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12" alt="GitHub stats" />
+  <img height="180" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=subratadasGit&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_radius=12" alt="Top languages" />
+-->
 
 <br /><br />
 
@@ -477,7 +492,7 @@
   <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
 </picture>
 
-<sub><i>Generated daily by <code>.github/workflows/snake.yml</code> — run the action once to create the <code>output</code> branch.</i></sub>
+<sub><i>Regenerated daily with <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">Platane/snk</a> via <code>.github/workflows/snake.yml</code></i></sub>
 
 </div>
 
@@ -485,11 +500,15 @@
 
 ## Achievements
 
-<div align="center">
+<!--
+  Trophies: github-profile-trophy's public instance is returning
+  402 DEPLOYMENT_DISABLED (shut down, not rate-limited) as of Jul 2026.
+  Left out so the section does not show a broken image.
+  To restore, self-host it (fork ryo-ma/github-profile-trophy -> Vercel)
+  and swap the hostname:
 
-<img src="https://github-profile-trophy.vercel.app/?username=subratadasGit&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophies" />
-
-</div>
+  <img src="https://YOUR-INSTANCE.vercel.app/?username=subratadasGit&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophies" />
+-->
 
 <table>
 <tr>
