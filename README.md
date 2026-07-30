@@ -5,12 +5,13 @@
   SETUP CHECKLIST — replace every "your-handle" / "your-repo"
   and delete this comment when done.
 
-  1. Social links      → LinkedIn, X, Instagram, Discord, YouTube,
-                         LeetCode, Codeforces, Stack Overflow,
-                         Medium, Dev.to, Hashnode
-                         (Portfolio, HackerRank, GfG already live)
-  2. Experience        → add internships / formal roles
-  3. Achievements      → add certifications + other hackathons
+  1. Social links      → X, Instagram, Discord, YouTube, LeetCode,
+                         Codeforces, Stack Overflow, Medium, Dev.to,
+                         Hashnode
+                         (LinkedIn, Portfolio, HackerRank, GfG are live)
+  2. Education         → confirm MCA institution + years
+  3. Experience        → add internships / formal roles
+  4. Achievements      → add certifications + other hackathons
   4. Rentify demo      → redeploy publicly if you want a live link;
                          the old Vercel URL was a private dashboard link
                          and chaintrack-sigma.vercel.app now 404s
@@ -417,7 +418,11 @@
 │  Coursework across PHP, PL/SQL, Django and Linux
 │
 ◆  JAN 2024 — JOINED GITHUB
-   60 public repositories since
+│  60 public repositories since
+│
+◆  EDUCATION
+   MCA — Master of Computer Applications
+   Institution · graduation year  ← confirm and fill
 ```
 
 <sub><i>Add your internships and formal roles here — those are the one thing your public repos cannot tell me.</i></sub>
@@ -578,7 +583,7 @@ To enable:
 
 <table>
 <tr>
-<td align="center" width="90"><a href="https://www.linkedin.com/in/your-handle"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a><br /><sub>LinkedIn</sub></td>
+<td align="center" width="90"><a href="https://www.linkedin.com/in/subrata-das-mca/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a><br /><sub>LinkedIn</sub></td>
 <td align="center" width="90"><a href="https://portfolio-alpha-blush-44.vercel.app"><img src="https://cdn.simpleicons.org/googlechrome/22D3EE" height="36" alt="Portfolio" /></a><br /><sub>Portfolio</sub></td>
 <td align="center" width="90"><a href="mailto:subratadasjobs01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a><br /><sub>Email</sub></td>
 <td align="center" width="90"><a href="https://x.com/your-handle"><img src="https://cdn.simpleicons.org/x/E0E0E0" height="34" alt="X" /></a><br /><sub>X</sub></td>
