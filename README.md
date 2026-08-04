@@ -1,661 +1,442 @@
 <a name="top"></a>
 
-<!--
-────────────────────────────────────────────────────────────────
-  SETUP CHECKLIST — replace every "your-handle" / "your-repo"
-  and delete this comment when done.
-
-  1. Social links      → X, Instagram, Discord, YouTube, LeetCode,
-                         Codeforces, Stack Overflow, Medium, Dev.to,
-                         Hashnode
-                         (LinkedIn, Portfolio, HackerRank, GfG are live)
-  2. Achievements      → add any further certifications / hackathons
-  3. HitBox role       → add "+5 skills" detail if you want it listed
-  4. Rentify demo      → redeploy publicly if you want a live link;
-                         the old Vercel URL was a private dashboard link
-                         and chaintrack-sigma.vercel.app now 404s
-  5. Workflows         → copy .github/workflows/* into the
-                         subratadasGit/subratadasGit repo, then run
-                         the "Generate Snake" action once
-  6. Spotify (optional)→ see the commented block in that section
-────────────────────────────────────────────────────────────────
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:22D3EE&height=190&section=header&text=Subrata%20Das&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Programmer%20by%20profession%2C%20dreamer%20by%20design&descSize=17&descAlignY=56" width="100%" alt="Subrata Das" />
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/hero.svg" width="100%" alt="Subrata Das — Software Engineer at HitBox Collectibles. Full stack MERN, React Native, on-chain. Belgharia, Kolkata, India. Open to opportunities." />
 
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  ███████╗██╗   ██╗██████╗ ██████╗  █████╗ ████████╗ █████╗   ║
-║  ██╔════╝██║   ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗  ║
-║  ███████╗██║   ██║██████╔╝██████╔╝███████║   ██║   ███████║  ║
-║  ╚════██║██║   ██║██╔══██╗██╔══██╗██╔══██║   ██║   ██╔══██║  ║
-║  ███████║╚██████╔╝██████╔╝██║  ██║██║  ██║   ██║   ██║  ██║  ║
-║  ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝  ║
-╠══════════════════════════════════════════════════════════════╣
-║   SOFTWARE ENGINEER @ HITBOX  ·  MCA'25  ·  KOLKATA, INDIA   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2400&pause=700&color=A855F7&center=true&vCenter=true&width=640&height=44&lines=Software+Engineer+%40+HitBox+Collectibles;Full+Stack+MERN+Developer;React+Native+Developer;Blockchain+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Roles" />
-
-<br />
-
-<em>Software Engineer at HitBox Collectibles · MERN &amp; React Native by day, on-chain by night</em>
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/marquee.svg" width="100%" alt="" />
 
 <br /><br />
 
-<a href="https://github.com/subratadasGit?tab=followers"><img src="https://img.shields.io/github/followers/subratadasGit?style=flat-square&logo=github&logoColor=A855F7&label=Followers&labelColor=0D1117&color=8B5CF6" alt="Followers" /></a>
-&nbsp;
-<a href="https://github.com/subratadasGit?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FsubratadasGit&query=%24.public_repos&style=flat-square&logo=git&logoColor=22D3EE&label=Repositories&labelColor=0D1117&color=06B6D4" alt="Repositories" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=subratadasGit&style=flat-square&label=Profile+Views&color=8B5CF6" alt="Profile views" />
-&nbsp;
-<img src="https://img.shields.io/badge/Belgharia,%20Kolkata-0D1117?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="Location" />
+<a href="https://www.linkedin.com/in/subrata-das-mca/"><img src="https://img.shields.io/badge/LINKEDIN-05080C?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzIyRTVDOCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&labelColor=05080C" alt="LinkedIn" /></a>
+<a href="https://portfolio-alpha-blush-44.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-05080C?style=flat-square&logo=vercel&logoColor=22E5C8&labelColor=05080C" alt="Portfolio" /></a>
+<a href="mailto:subratadasjobs01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-05080C?style=flat-square&logo=gmail&logoColor=22E5C8&labelColor=05080C" alt="Email" /></a>
+<a href="https://github.com/subratadasGit?tab=repositories"><img src="https://img.shields.io/badge/REPOS-60-05080C?style=flat-square&labelColor=05080C&color=A855F7" alt="Repositories" /></a>
+<a href="https://github.com/subratadasGit?tab=followers"><img src="https://img.shields.io/github/followers/subratadasGit?style=flat-square&label=FOLLOWERS&labelColor=05080C&color=A855F7" alt="Followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=subratadasGit&style=flat-square&label=VISITS&color=A855F7" alt="Profile views" />
 
 <br /><br />
 
-<a href="#about-me"><b>◈ About</b></a> &nbsp;·&nbsp;
-<a href="#tech-stack"><b>◈ Tech Stack</b></a> &nbsp;·&nbsp;
-<a href="#featured-projects"><b>◈ Projects</b></a> &nbsp;·&nbsp;
-<a href="#experience"><b>◈ Experience</b></a> &nbsp;·&nbsp;
-<a href="#github-analytics"><b>◈ Stats</b></a> &nbsp;·&nbsp;
-<a href="#achievements"><b>◈ Achievements</b></a> &nbsp;·&nbsp;
-<a href="#connect"><b>◈ Contact</b></a>
+<sub><code>«</code> ABOUT <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#01--about">01</a> <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#02--stack">02</a> <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#03--work">03</a> <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#04--timeline">04</a> <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#05--telemetry">05</a> <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#06--signal">06</a> <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#07--connect">07</a> <code>»</code></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
 </div>
 
-## About Me
+## 01 — ABOUT
 
-<table>
-<tr>
-<td width="62%" valign="top">
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  CURRENTLY      Software Engineer at HitBox Collectibles         │
+│                 MERN Stack · React Native                        │
+│                                                                  │
+│  BUILDING       Foodfit — AI meal planner                        │
+│                 React 19 · Express 5 · PostgreSQL · Gemini       │
+│                                                                  │
+│  SHIPPED        Rentify — hybrid Web2 × Web3 marketplace         │
+│                 Next.js · Solidity · Foundry · Sepolia           │
+│                                                                  │
+│  LEARNING       Chainlink oracles · Machine Learning             │
+│                 MCP tooling for AI agents                        │
+│                                                                  │
+│  OPEN TO        dApps · crypto integrations · open source        │
+│                                                                  │
+│  ASK ME         React · Node · Solidity · PostgreSQL             │
+│                 DSA in Java · UI/UX                              │
+│                                                                  │
+│  REACH          subratadasjobs01@gmail.com                       │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-**Software Engineer at HitBox Collectibles**, working across the whole surface of a product — from the Figma frame to the deployed API to the smart contract underneath it. MCA from Heritage Institute of Technology, Kolkata. I care about interfaces that feel obvious and code that the next person can read.
+I work across the whole surface of a product — from the Figma frame to the
+deployed API to the smart contract underneath it. MCA from Heritage Institute
+of Technology, Kolkata. I care about interfaces that feel obvious and code that
+the next person can read.
 
-<br />
+<sub><i>A coder writes the code. A developer owns the design around it.</i></sub>
 
-💼 &nbsp;**Currently** — Software Engineer at **HitBox Collectibles**, on MERN and React Native
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
-🔭 &nbsp;**Currently building** — [Foodfit](https://github.com/subratadasGit/Foodfit), an AI meal planner on React 19 + Express + PostgreSQL
+## 02 — STACK
 
-⛓️ &nbsp;**Shipped on-chain** — [Rentify](https://github.com/subratadasGit/Rentify-Real-Estate), a hybrid Web2 × Web3 property marketplace with NFT ownership certificates
-
-🌱 &nbsp;**Currently learning** — Chainlink oracles, Machine Learning, MCP tooling for AI agents
-
-🤝 &nbsp;**Open to collaborate on** — dApps, crypto integrations, open source
-
-💬 &nbsp;**Ask me about** — React, Node.js, Solidity, PostgreSQL, DSA in Java, UI/UX
-
-📫 &nbsp;**Reach me at** — [subratadasjobs01@gmail.com](mailto:subratadasjobs01@gmail.com)
-
-⚡ &nbsp;**Fun fact** — *"coder", "programmer" and "developer" get used interchangeably, but a coder writes the code while a developer owns the design around it*
-
-</td>
-<td width="38%" valign="top" align="center">
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnM4ODFuaHM5eWJ6c3I0czRsangzZm9jNTh0bngzemMxNTAzNDZ3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3LKQGIc48tdE5uyZlU/giphy.gif" width="100%" alt="Coding" />
-
-<br />
-
-<code>◉ Available for opportunities</code>
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%" alt="" /></div>
-
-## Tech Stack
-
-<div align="center"><sub><i>every logo links to its official documentation</i></sub></div>
+<sub>◈ &nbsp;every logo links to its official documentation</sub>
 
 <br />
 
-<table>
-<tr><td colspan="7"><b>&nbsp;⌬&nbsp; Languages</b></td></tr>
-<tr>
-<td align="center" width="105"><a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" height="44" alt="Java" /></a><br /><sub><b>Java</b></sub></td>
-<td align="center" width="105"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="44" alt="JavaScript" /></a><br /><sub><b>JavaScript</b></sub></td>
-<td align="center" width="105"><a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" height="44" alt="TypeScript" /></a><br /><sub><b>TypeScript</b></sub></td>
-<td align="center" width="105"><a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=py" height="44" alt="Python" /></a><br /><sub><b>Python</b></sub></td>
-<td align="center" width="105"><a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" height="44" alt="C" /></a><br /><sub><b>C</b></sub></td>
-<td align="center" width="105"><a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" height="44" alt="C++" /></a><br /><sub><b>C++</b></sub></td>
-<td align="center" width="105"><a href="https://www.postgresql.org/docs/current/sql.html"><img src="https://skillicons.dev/icons?i=mysql" height="44" alt="SQL" /></a><br /><sub><b>SQL</b></sub></td>
-</tr>
+**`LANGUAGES`**
 
-<tr><td colspan="7"><b>&nbsp;⌬&nbsp; Frontend</b></td></tr>
-<tr>
-<td align="center"><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="44" alt="React" /></a><br /><sub><b>React</b></sub></td>
-<td align="center"><a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs" height="44" alt="Next.js" /></a><br /><sub><b>Next.js</b></sub></td>
-<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="44" alt="HTML" /></a><br /><sub><b>HTML</b></sub></td>
-<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="44" alt="CSS" /></a><br /><sub><b>CSS</b></sub></td>
-<td align="center"><a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" height="44" alt="Tailwind CSS" /></a><br /><sub><b>Tailwind</b></sub></td>
-<td align="center"><a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" height="44" alt="Redux" /></a><br /><sub><b>Redux</b></sub></td>
-<td align="center"><a href="https://vite.dev/guide/"><img src="https://skillicons.dev/icons?i=vite" height="44" alt="Vite" /></a><br /><sub><b>Vite</b></sub></td>
-</tr>
-<tr>
-<td align="center"><a href="https://angular.dev/overview"><img src="https://skillicons.dev/icons?i=angular" height="44" alt="Angular" /></a><br /><sub><b>Angular</b></sub></td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
+<a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/JAVA-05080C?style=flat-square&logo=openjdk&logoColor=22E5C8&labelColor=05080C" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JAVASCRIPT-05080C?style=flat-square&logo=javascript&logoColor=22E5C8&labelColor=05080C" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TYPESCRIPT-05080C?style=flat-square&logo=typescript&logoColor=22E5C8&labelColor=05080C" alt="TypeScript" /></a>
+<a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/PYTHON-05080C?style=flat-square&logo=python&logoColor=22E5C8&labelColor=05080C" alt="Python" /></a>
+<a href="https://en.cppreference.com/w/cpp"><img src="https://img.shields.io/badge/C%2B%2B-05080C?style=flat-square&logo=cplusplus&logoColor=22E5C8&labelColor=05080C" alt="C++" /></a>
+<a href="https://www.postgresql.org/docs/current/sql.html"><img src="https://img.shields.io/badge/SQL-05080C?style=flat-square&logo=postgresql&logoColor=22E5C8&labelColor=05080C" alt="SQL" /></a>
 
-<tr><td colspan="7"><b>&nbsp;⌬&nbsp; Backend</b></td></tr>
-<tr>
-<td align="center"><a href="https://nodejs.org/docs/latest/api/"><img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="Node.js" /></a><br /><sub><b>Node.js</b></sub></td>
-<td align="center"><a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="44" alt="Express" /></a><br /><sub><b>Express</b></sub></td>
-<td align="center"><a href="https://www.prisma.io/docs"><img src="https://skillicons.dev/icons?i=prisma" height="44" alt="Prisma" /></a><br /><sub><b>Prisma</b></sub></td>
-<td align="center"><a href="https://graphql.org/learn/"><img src="https://skillicons.dev/icons?i=graphql" height="44" alt="GraphQL" /></a><br /><sub><b>GraphQL</b></sub></td>
-<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/REST"><img src="https://skillicons.dev/icons?i=postman" height="44" alt="REST API" /></a><br /><sub><b>REST API</b></sub></td>
-<td align="center"><a href="https://docs.spring.io/spring-boot/index.html"><img src="https://skillicons.dev/icons?i=spring" height="44" alt="Spring Boot" /></a><br /><sub><b>Spring Boot</b></sub></td>
-<td align="center"><a href="https://sequelize.org/docs/v6/"><img src="https://cdn.simpleicons.org/sequelize/52B0E7" height="40" alt="Sequelize" /></a><br /><sub><b>Sequelize</b></sub></td>
-</tr>
+**`FRONTEND`**
 
-<tr><td colspan="7"><b>&nbsp;⌬&nbsp; Database</b></td></tr>
-<tr>
-<td align="center"><a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" height="44" alt="PostgreSQL" /></a><br /><sub><b>PostgreSQL</b></sub></td>
-<td align="center"><a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="MongoDB" /></a><br /><sub><b>MongoDB</b></sub></td>
-<td align="center"><a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" height="44" alt="MySQL" /></a><br /><sub><b>MySQL</b></sub></td>
-<td align="center"><a href="https://supabase.com/docs"><img src="https://skillicons.dev/icons?i=supabase" height="44" alt="Supabase" /></a><br /><sub><b>Supabase</b></sub></td>
-<td align="center"><a href="https://firebase.google.com/docs"><img src="https://skillicons.dev/icons?i=firebase" height="44" alt="Firebase" /></a><br /><sub><b>Firebase</b></sub></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/REACT-05080C?style=flat-square&logo=react&logoColor=22E5C8&labelColor=05080C" alt="React" /></a>
+<a href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/NEXT.JS-05080C?style=flat-square&logo=nextdotjs&logoColor=22E5C8&labelColor=05080C" alt="Next.js" /></a>
+<a href="https://tailwindcss.com/docs"><img src="https://img.shields.io/badge/TAILWIND-05080C?style=flat-square&logo=tailwindcss&logoColor=22E5C8&labelColor=05080C" alt="Tailwind" /></a>
+<a href="https://redux.js.org/"><img src="https://img.shields.io/badge/REDUX-05080C?style=flat-square&logo=redux&logoColor=22E5C8&labelColor=05080C" alt="Redux" /></a>
+<a href="https://vite.dev/guide/"><img src="https://img.shields.io/badge/VITE-05080C?style=flat-square&logo=vite&logoColor=22E5C8&labelColor=05080C" alt="Vite" /></a>
+<a href="https://angular.dev/overview"><img src="https://img.shields.io/badge/ANGULAR-05080C?style=flat-square&logo=angular&logoColor=22E5C8&labelColor=05080C" alt="Angular" /></a>
 
-<tr><td colspan="7"><b>&nbsp;⌬&nbsp; Cloud &amp; Hosting</b></td></tr>
-<tr>
-<td align="center"><a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" height="44" alt="Vercel" /></a><br /><sub><b>Vercel</b></sub></td>
-<td align="center"><a href="https://render.com/docs"><img src="https://cdn.simpleicons.org/render/E0E0E0" height="40" alt="Render" /></a><br /><sub><b>Render</b></sub></td>
-<td align="center"><a href="https://docs.railway.com/"><img src="https://cdn.simpleicons.org/railway/E0E0E0" height="40" alt="Railway" /></a><br /><sub><b>Railway</b></sub></td>
-<td align="center"><a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="44" alt="Docker" /></a><br /><sub><b>Docker</b></sub></td>
-<td align="center"><a href="https://developers.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" height="44" alt="Cloudflare" /></a><br /><sub><b>Cloudflare</b></sub></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
+**`BACKEND`**
 
-<tr><td colspan="7"><b>&nbsp;⌬&nbsp; DevOps</b></td></tr>
-<tr>
-<td align="center"><a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" height="44" alt="Git" /></a><br /><sub><b>Git</b></sub></td>
-<td align="center"><a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub" /></a><br /><sub><b>GitHub</b></sub></td>
-<td align="center"><a href="https://docs.github.com/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="44" alt="GitHub Actions" /></a><br /><sub><b>Actions</b></sub></td>
-<td align="center"><a href="https://docs.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="44" alt="Linux" /></a><br /><sub><b>Linux</b></sub></td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
+<a href="https://nodejs.org/docs/latest/api/"><img src="https://img.shields.io/badge/NODE.JS-05080C?style=flat-square&logo=nodedotjs&logoColor=22E5C8&labelColor=05080C" alt="Node.js" /></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/EXPRESS-05080C?style=flat-square&logo=express&logoColor=22E5C8&labelColor=05080C" alt="Express" /></a>
+<a href="https://docs.spring.io/spring-boot/index.html"><img src="https://img.shields.io/badge/SPRING%20BOOT-05080C?style=flat-square&logo=springboot&logoColor=22E5C8&labelColor=05080C" alt="Spring Boot" /></a>
+<a href="https://graphql.org/learn/"><img src="https://img.shields.io/badge/GRAPHQL-05080C?style=flat-square&logo=graphql&logoColor=22E5C8&labelColor=05080C" alt="GraphQL" /></a>
+<a href="https://www.prisma.io/docs"><img src="https://img.shields.io/badge/PRISMA-05080C?style=flat-square&logo=prisma&logoColor=22E5C8&labelColor=05080C" alt="Prisma" /></a>
+<a href="https://sequelize.org/docs/v6/"><img src="https://img.shields.io/badge/SEQUELIZE-05080C?style=flat-square&logo=sequelize&logoColor=22E5C8&labelColor=05080C" alt="Sequelize" /></a>
 
-<tr><td colspan="7"><b>&nbsp;⌬&nbsp; Mobile</b></td></tr>
-<tr>
-<td align="center"><a href="https://reactnative.dev/docs/getting-started"><img src="https://skillicons.dev/icons?i=react" height="44" alt="React Native" /></a><br /><sub><b>React Native</b></sub></td>
-<td align="center"><a href="https://docs.expo.dev/"><img src="https://cdn.simpleicons.org/expo/E0E0E0" height="40" alt="Expo" /></a><br /><sub><b>Expo</b></sub></td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
+**`DATA`**
 
-<tr><td colspan="7"><b>&nbsp;⌬&nbsp; Blockchain</b></td></tr>
-<tr>
-<td align="center"><a href="https://docs.soliditylang.org/"><img src="https://skillicons.dev/icons?i=solidity" height="44" alt="Solidity" /></a><br /><sub><b>Solidity</b></sub></td>
-<td align="center"><a href="https://docs.ipfs.tech/"><img src="https://skillicons.dev/icons?i=ipfs" height="44" alt="IPFS" /></a><br /><sub><b>IPFS</b></sub></td>
-<td align="center"><a href="https://docs.chain.link/"><img src="https://cdn.simpleicons.org/chainlink/375BD2" height="40" alt="Chainlink" /></a><br /><sub><b>Chainlink</b></sub></td>
-<td align="center"><a href="https://polygon.technology/developers"><img src="https://cdn.simpleicons.org/polygon/7B3FE4" height="40" alt="Polygon" /></a><br /><sub><b>Polygon</b></sub></td>
-<td align="center"><a href="https://hardhat.org/docs"><img src="https://img.shields.io/badge/Hardhat-161B22?style=flat-square" height="26" alt="Hardhat" /></a><br /><sub><b>&nbsp;</b></sub></td>
-<td align="center"><a href="https://docs.ethers.org/"><img src="https://img.shields.io/badge/Ethers.js-161B22?style=flat-square" height="26" alt="Ethers.js" /></a><br /><sub><b>&nbsp;</b></sub></td>
-<td align="center"><a href="https://docs.web3js.org/"><img src="https://img.shields.io/badge/Web3.js-161B22?style=flat-square" height="26" alt="Web3.js" /></a><br /><sub><b>&nbsp;</b></sub></td>
-</tr>
-<tr>
-<td align="center" colspan="7"><a href="https://hyperledger-fabric.readthedocs.io/"><img src="https://img.shields.io/badge/Hyperledger%20Fabric-161B22?style=flat-square&logo=hyperledger&logoColor=white" height="26" alt="Hyperledger Fabric" /></a></td>
-</tr>
+<a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/POSTGRESQL-05080C?style=flat-square&logo=postgresql&logoColor=A855F7&labelColor=05080C" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MONGODB-05080C?style=flat-square&logo=mongodb&logoColor=A855F7&labelColor=05080C" alt="MongoDB" /></a>
+<a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/MYSQL-05080C?style=flat-square&logo=mysql&logoColor=A855F7&labelColor=05080C" alt="MySQL" /></a>
+<a href="https://supabase.com/docs"><img src="https://img.shields.io/badge/SUPABASE-05080C?style=flat-square&logo=supabase&logoColor=A855F7&labelColor=05080C" alt="Supabase" /></a>
+<a href="https://firebase.google.com/docs"><img src="https://img.shields.io/badge/FIREBASE-05080C?style=flat-square&logo=firebase&logoColor=A855F7&labelColor=05080C" alt="Firebase" /></a>
 
-<tr><td colspan="7"><b>&nbsp;⌬&nbsp; Design &amp; AI</b></td></tr>
-<tr>
-<td align="center"><a href="https://help.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="44" alt="Figma" /></a><br /><sub><b>Figma</b></sub></td>
-<td align="center"><a href="https://www.canva.com/help/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" /></a><br /><sub><b>Canva</b></sub></td>
-<td align="center"><a href="https://platform.openai.com/docs"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" height="26" alt="OpenAI" /></a><br /><sub><b>&nbsp;</b></sub></td>
-<td align="center"><a href="https://ai.google.dev/gemini-api/docs"><img src="https://cdn.simpleicons.org/googlegemini/8E75FF" height="40" alt="Gemini" /></a><br /><sub><b>Gemini</b></sub></td>
-<td align="center"><a href="https://python.langchain.com/docs/"><img src="https://cdn.simpleicons.org/langchain/E0E0E0" height="40" alt="LangChain" /></a><br /><sub><b>LangChain</b></sub></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-</table>
+**`INFRA`**
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%" alt="" /></div>
+<a href="https://vercel.com/docs"><img src="https://img.shields.io/badge/VERCEL-05080C?style=flat-square&logo=vercel&logoColor=A855F7&labelColor=05080C" alt="Vercel" /></a>
+<a href="https://render.com/docs"><img src="https://img.shields.io/badge/RENDER-05080C?style=flat-square&logo=render&logoColor=A855F7&labelColor=05080C" alt="Render" /></a>
+<a href="https://docs.railway.com/"><img src="https://img.shields.io/badge/RAILWAY-05080C?style=flat-square&logo=railway&logoColor=A855F7&labelColor=05080C" alt="Railway" /></a>
+<a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/DOCKER-05080C?style=flat-square&logo=docker&logoColor=A855F7&labelColor=05080C" alt="Docker" /></a>
+<a href="https://developers.cloudflare.com/"><img src="https://img.shields.io/badge/CLOUDFLARE-05080C?style=flat-square&logo=cloudflare&logoColor=A855F7&labelColor=05080C" alt="Cloudflare" /></a>
+<a href="https://docs.github.com/actions"><img src="https://img.shields.io/badge/ACTIONS-05080C?style=flat-square&logo=githubactions&logoColor=A855F7&labelColor=05080C" alt="GitHub Actions" /></a>
+<a href="https://docs.kernel.org/"><img src="https://img.shields.io/badge/LINUX-05080C?style=flat-square&logo=linux&logoColor=A855F7&labelColor=05080C" alt="Linux" /></a>
 
-## Featured Projects
+**`MOBILE`**
+
+<a href="https://reactnative.dev/docs/getting-started"><img src="https://img.shields.io/badge/REACT%20NATIVE-05080C?style=flat-square&logo=react&logoColor=22E5C8&labelColor=05080C" alt="React Native" /></a>
+<a href="https://docs.expo.dev/"><img src="https://img.shields.io/badge/EXPO-05080C?style=flat-square&logo=expo&logoColor=22E5C8&labelColor=05080C" alt="Expo" /></a>
+
+**`ON-CHAIN`**
+
+<a href="https://docs.soliditylang.org/"><img src="https://img.shields.io/badge/SOLIDITY-05080C?style=flat-square&logo=solidity&logoColor=22E5C8&labelColor=05080C" alt="Solidity" /></a>
+<a href="https://book.getfoundry.sh/"><img src="https://img.shields.io/badge/FOUNDRY-05080C?style=flat-square&logo=ethereum&logoColor=22E5C8&labelColor=05080C" alt="Foundry" /></a>
+<a href="https://hardhat.org/docs"><img src="https://img.shields.io/badge/HARDHAT-05080C?style=flat-square&logo=ethereum&logoColor=22E5C8&labelColor=05080C" alt="Hardhat" /></a>
+<a href="https://docs.ethers.org/"><img src="https://img.shields.io/badge/ETHERS.JS-05080C?style=flat-square&logo=ethereum&logoColor=22E5C8&labelColor=05080C" alt="Ethers.js" /></a>
+<a href="https://docs.ipfs.tech/"><img src="https://img.shields.io/badge/IPFS-05080C?style=flat-square&logo=ipfs&logoColor=22E5C8&labelColor=05080C" alt="IPFS" /></a>
+<a href="https://docs.chain.link/"><img src="https://img.shields.io/badge/CHAINLINK-05080C?style=flat-square&logo=chainlink&logoColor=22E5C8&labelColor=05080C" alt="Chainlink" /></a>
+<a href="https://polygon.technology/developers"><img src="https://img.shields.io/badge/POLYGON-05080C?style=flat-square&logo=polygon&logoColor=22E5C8&labelColor=05080C" alt="Polygon" /></a>
+<a href="https://hyperledger-fabric.readthedocs.io/"><img src="https://img.shields.io/badge/%E2%97%88%20HYPERLEDGER-05080C?style=flat-square&labelColor=05080C&color=05080C" alt="Hyperledger Fabric" /></a>
+
+**`DESIGN & AI`**
+
+<a href="https://help.figma.com/"><img src="https://img.shields.io/badge/FIGMA-05080C?style=flat-square&logo=figma&logoColor=A855F7&labelColor=05080C" alt="Figma" /></a>
+<a href="https://www.canva.com/help/"><img src="https://img.shields.io/badge/%E2%97%88%20CANVA-05080C?style=flat-square&labelColor=05080C&color=05080C" alt="Canva" /></a>
+<a href="https://ai.google.dev/gemini-api/docs"><img src="https://img.shields.io/badge/GEMINI-05080C?style=flat-square&logo=googlegemini&logoColor=A855F7&labelColor=05080C" alt="Gemini" /></a>
+<a href="https://platform.openai.com/docs"><img src="https://img.shields.io/badge/%E2%97%88%20OPENAI-05080C?style=flat-square&labelColor=05080C&color=05080C" alt="OpenAI" /></a>
+<a href="https://python.langchain.com/docs/"><img src="https://img.shields.io/badge/LANGCHAIN-05080C?style=flat-square&logo=langchain&logoColor=A855F7&labelColor=05080C" alt="LangChain" /></a>
+<a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-05080C?style=flat-square&logo=anthropic&logoColor=A855F7&labelColor=05080C" alt="MCP" /></a>
+
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
+
+## 03 — WORK
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/subratadasGit/Rentify-Real-Estate">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=88&section=header&text=Rentify&fontSize=30&fontColor=0D1117&fontAlignY=58" width="100%" alt="Rentify" />
-</a>
+```
+┌─ 001 ────────────────────────┐
+│  R E N T I F Y               │
+│  WEB2 × WEB3 · REAL ESTATE   │
+└──────────────────────────────┘
+```
 
-<b>Hybrid Web2 × Web3 Real Estate Marketplace</b>
-
-<sub>List, buy and sell property through a familiar web interface while smart contracts finalize the transaction on-chain. Clerk auth, Supabase storage, Razorpay payments with invoice generation, and NFT minting for ownership certificates.</sub>
+List, buy and sell property through a familiar web interface while smart
+contracts finalize the transaction on-chain. Clerk auth, Supabase storage,
+Razorpay payments with invoice generation, and NFT minting for ownership
+certificates.
 
 <sub><code>Next.js</code> <code>Solidity</code> <code>Foundry</code> <code>Ethers.js</code> <code>Supabase</code> <code>Clerk</code> <code>Razorpay</code></sub>
 
-<a href="https://github.com/subratadasGit/Rentify-Real-Estate"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Code" /></a>
-<a href="https://sepolia.etherscan.io/"><img src="https://img.shields.io/badge/Sepolia%20Testnet-0D1117?style=for-the-badge&logo=ethereum&logoColor=22D3EE" alt="Sepolia Testnet" /></a>
-<br />
-<img src="https://img.shields.io/github/stars/subratadasGit/Rentify-Real-Estate?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Stars" />
-<img src="https://img.shields.io/github/languages/top/subratadasGit/Rentify-Real-Estate?style=flat-square&labelColor=0D1117&color=06B6D4" alt="Top language" />
+<a href="https://github.com/subratadasGit/Rentify-Real-Estate"><img src="https://img.shields.io/badge/SOURCE-05080C?style=flat-square&logo=github&logoColor=22E5C8&labelColor=05080C" alt="Source" /></a>
+<a href="https://sepolia.etherscan.io/"><img src="https://img.shields.io/badge/SEPOLIA-05080C?style=flat-square&logo=ethereum&logoColor=22E5C8&labelColor=05080C" alt="Sepolia" /></a>
+<img src="https://img.shields.io/github/stars/subratadasGit/Rentify-Real-Estate?style=flat-square&label=%E2%98%85&labelColor=05080C&color=A855F7" alt="Stars" />
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://foodfit-1-ck94.onrender.com/">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=88&section=header&text=Foodfit&fontSize=30&fontColor=0D1117&fontAlignY=58" width="100%" alt="Foodfit" />
-</a>
+```
+┌─ 002 ────────────────────────┐
+│  F O O D F I T               │
+│  AI MEAL PLANNER · PANTRY    │
+└──────────────────────────────┘
+```
 
-<b>AI Meal Planner &amp; Pantry Manager</b>
-
-<sub>Generates recipes from whatever is actually in your pantry, then plans the week and builds the shopping list. Tracks expiry dates, nutrition data and dietary preferences behind JWT-protected routes.</sub>
+Generates recipes from whatever is actually in your pantry, then plans the
+week and builds the shopping list. Tracks expiry dates, nutrition data and
+dietary preferences behind JWT-protected routes.
 
 <sub><code>React 19</code> <code>Vite</code> <code>Tailwind</code> <code>Express 5</code> <code>PostgreSQL</code> <code>Sequelize</code> <code>Gemini</code></sub>
 
-<a href="https://github.com/subratadasGit/Foodfit"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Code" /></a>
-<a href="https://foodfit-1-ck94.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=render&logoColor=22D3EE" alt="Live Demo" /></a>
-<br />
-<img src="https://img.shields.io/github/stars/subratadasGit/Foodfit?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Stars" />
-<img src="https://img.shields.io/github/languages/top/subratadasGit/Foodfit?style=flat-square&labelColor=0D1117&color=06B6D4" alt="Top language" />
+<a href="https://github.com/subratadasGit/Foodfit"><img src="https://img.shields.io/badge/SOURCE-05080C?style=flat-square&logo=github&logoColor=22E5C8&labelColor=05080C" alt="Source" /></a>
+<a href="https://foodfit-1-ck94.onrender.com/"><img src="https://img.shields.io/badge/LIVE-05080C?style=flat-square&logo=render&logoColor=22E5C8&labelColor=05080C" alt="Live" /></a>
+<img src="https://img.shields.io/github/stars/subratadasGit/Foodfit?style=flat-square&label=%E2%98%85&labelColor=05080C&color=A855F7" alt="Stars" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/subratadasGit/awesome-mcp-servers">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:06B6D4&height=88&section=header&text=Awesome%20MCP%20Servers&fontSize=24&fontColor=0D1117&fontAlignY=58" width="100%" alt="Awesome MCP Servers" />
-</a>
+```
+┌─ 003 ────────────────────────┐
+│  A W E S O M E   M C P       │
+│  MODEL CONTEXT PROTOCOL      │
+└──────────────────────────────┘
+```
 
-<b>Curated Index of Model Context Protocol Servers</b>
-
-<sub>A maintained list of MCP servers, frameworks and utilities that let AI models reach real context — files, databases, APIs and local tools. My most forked repository.</sub>
+A maintained index of MCP servers, frameworks and utilities that let AI models
+reach real context — files, databases, APIs and local tools. My most forked
+repository.
 
 <sub><code>MCP</code> <code>AI Tooling</code> <code>Open Source</code> <code>Documentation</code></sub>
 
-<a href="https://github.com/subratadasGit/awesome-mcp-servers"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Code" /></a>
-<a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/What%20is%20MCP%3F-0D1117?style=for-the-badge&logo=readthedocs&logoColor=22D3EE" alt="What is MCP" /></a>
-<br />
-<img src="https://img.shields.io/github/stars/subratadasGit/awesome-mcp-servers?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Stars" />
-<img src="https://img.shields.io/github/forks/subratadasGit/awesome-mcp-servers?style=flat-square&labelColor=0D1117&color=06B6D4" alt="Forks" />
+<a href="https://github.com/subratadasGit/awesome-mcp-servers"><img src="https://img.shields.io/badge/SOURCE-05080C?style=flat-square&logo=github&logoColor=22E5C8&labelColor=05080C" alt="Source" /></a>
+<a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/WHAT%20IS%20MCP%3F-05080C?style=flat-square&logo=readthedocs&logoColor=22E5C8&labelColor=05080C" alt="What is MCP" /></a>
+<img src="https://img.shields.io/github/forks/subratadasGit/awesome-mcp-servers?style=flat-square&label=%E2%9A%82&labelColor=05080C&color=A855F7" alt="Forks" />
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://portfolio-alpha-blush-44.vercel.app">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:A855F7&height=88&section=header&text=Portfolio&fontSize=30&fontColor=0D1117&fontAlignY=58" width="100%" alt="Portfolio" />
-</a>
+```
+┌─ 004 ────────────────────────┐
+│  P O R T F O L I O           │
+│  PERSONAL SITE · WRITING     │
+└──────────────────────────────┘
+```
 
-<b>Personal Portfolio &amp; Writing</b>
-
-<sub>My own site — work, writing and contact in one place. Built on the Next.js App Router with MDX-driven content, <code>next-themes</code> light/dark switching and a Tailwind design system.</sub>
+My own site — work, writing and contact in one place. Built on the Next.js
+App Router with MDX-driven content, `next-themes` light/dark switching and a
+Tailwind design system.
 
 <sub><code>Next.js 14</code> <code>TypeScript</code> <code>Tailwind</code> <code>MDX</code> <code>Vercel</code></sub>
 
-<a href="https://github.com/subratadasGit/portfolio"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Code" /></a>
-<a href="https://portfolio-alpha-blush-44.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Live Demo" /></a>
-<br />
-<img src="https://img.shields.io/github/stars/subratadasGit/portfolio?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Stars" />
-<img src="https://img.shields.io/github/languages/top/subratadasGit/portfolio?style=flat-square&labelColor=0D1117&color=06B6D4" alt="Top language" />
+<a href="https://github.com/subratadasGit/portfolio"><img src="https://img.shields.io/badge/SOURCE-05080C?style=flat-square&logo=github&logoColor=22E5C8&labelColor=05080C" alt="Source" /></a>
+<a href="https://portfolio-alpha-blush-44.vercel.app"><img src="https://img.shields.io/badge/LIVE-05080C?style=flat-square&logo=vercel&logoColor=22E5C8&labelColor=05080C" alt="Live" /></a>
+<img src="https://img.shields.io/github/stars/subratadasGit/portfolio?style=flat-square&label=%E2%98%85&labelColor=05080C&color=A855F7" alt="Stars" />
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>&nbsp;◈ &nbsp;More work &nbsp;<sub>(click to expand)</sub></b></summary>
+<summary><b><code>«</code> INDEX — MORE WORK <code>»</code></b></summary>
 
 <br />
 
-<table>
-<tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th></tr>
-<tr>
-  <td><a href="https://github.com/subratadasGit/Visual_Question_Answering"><b>Visual Question Answering</b></a> ⭐1</td>
-  <td><sub>Ask questions about an image and get answers back — computer vision meets NLP, implemented in JavaScript.</sub></td>
-  <td><sub><code>JavaScript</code> <code>Deep Learning</code></sub></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/subratadasGit/IIT-KGP_Blockchain"><b>IIT-KGP Blockchain</b></a></td>
-  <td><sub>Project built for the East India Blockchain Summit at IIT Kharagpur.</sub></td>
-  <td><sub><code>TypeScript</code> <code>Solidity</code></sub></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/subratadasGit/SolidityNotes"><b>Solidity Notes</b></a> ⭐1</td>
-  <td><sub>A working reference for smart contract development — concepts, snippets, security patterns and best practices.</sub></td>
-  <td><sub><code>Solidity</code></sub></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/subratadasGit/ResumeAnalyzer"><b>Resume Analyzer</b></a></td>
-  <td><sub>Resume parsing and analysis app, containerised for deployment anywhere Docker runs.</sub></td>
-  <td><sub><code>React Router</code> <code>TypeScript</code> <code>Docker</code></sub></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/subratadasGit/document_verification_system"><b>Document Verification System</b></a></td>
-  <td><sub>Verifies document authenticity — built around tamper-evident record keeping.</sub></td>
-  <td><sub><code>JavaScript</code></sub></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/subratadasGit/decentralized-github-page"><b>Decentralized GitHub Page</b></a></td>
-  <td><sub>Experiment in serving a GitHub-style profile page from decentralized storage.</sub></td>
-  <td><sub><code>TypeScript</code></sub></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/subratadasGit/Restaurant-Table-Booking-System"><b>Restaurant Table Booking</b></a></td>
-  <td><sub>Reservation system with customer booking flow, status tracking and an admin panel for staff.</sub></td>
-  <td><sub><code>PHP</code> <code>JavaScript</code></sub></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/subratadasGit/javascript2024"><b>JavaScript 2024</b></a> ⭐1 &nbsp;🍴2</td>
-  <td><sub>Teaching repo — JavaScript fundamentals, forked and used by other learners.</sub></td>
-  <td><sub><code>JavaScript</code></sub></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/subratadasGit/Nodejs_practical_for_students"><b>Node.js for Students</b></a> ⭐1</td>
-  <td><sub>Practical Node.js exercises written for students to work through.</sub></td>
-  <td><sub><code>JavaScript</code> <code>Node.js</code></sub></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/subratadasGit/ReactTutorialBySubrata"><b>React Tutorial</b></a> ⭐1</td>
-  <td><sub>Step-by-step React walkthrough built as a teaching resource.</sub></td>
-  <td><sub><code>React</code> <code>CSS</code></sub></td>
-</tr>
-</table>
+| REPO | WHAT IT IS | STACK |
+| :--- | :--- | :--- |
+| [**Visual Question Answering**](https://github.com/subratadasGit/Visual_Question_Answering) | Ask questions about an image and get answers back — vision meets NLP | `JavaScript` `Deep Learning` |
+| [**IIT-KGP Blockchain**](https://github.com/subratadasGit/IIT-KGP_Blockchain) | Built for the East India Blockchain Summit at IIT Kharagpur | `TypeScript` `Solidity` |
+| [**Solidity Notes**](https://github.com/subratadasGit/SolidityNotes) | Working reference for contract development — patterns and security | `Solidity` |
+| [**Resume Analyzer**](https://github.com/subratadasGit/ResumeAnalyzer) | Resume parsing and analysis, containerised for anywhere Docker runs | `React Router` `TypeScript` `Docker` |
+| [**Document Verification**](https://github.com/subratadasGit/document_verification_system) | Verifies document authenticity via tamper-evident record keeping | `JavaScript` |
+| [**Decentralized GH Page**](https://github.com/subratadasGit/decentralized-github-page) | Serving a GitHub-style profile page from decentralized storage | `TypeScript` |
+| [**Restaurant Booking**](https://github.com/subratadasGit/Restaurant-Table-Booking-System) | Reservation flow, status tracking and an admin panel for staff | `PHP` `JavaScript` |
+| [**JavaScript 2024**](https://github.com/subratadasGit/javascript2024) | Teaching repo — fundamentals, forked and used by other learners | `JavaScript` |
+| [**Node.js for Students**](https://github.com/subratadasGit/Nodejs_practical_for_students) | Practical Node.js exercises written for students to work through | `Node.js` |
+| [**React Tutorial**](https://github.com/subratadasGit/ReactTutorialBySubrata) | Step-by-step React walkthrough built as a teaching resource | `React` `CSS` |
 
 </details>
 
 <div align="center">
-<a href="https://github.com/subratadasGit?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%2060%20repositories%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="All repositories" /></a>
+<a href="https://github.com/subratadasGit?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20ALL%2060%20REPOSITORIES%20%E2%86%92-05080C?style=flat-square&logo=github&logoColor=22E5C8&labelColor=05080C" alt="All repositories" /></a>
 </div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%" alt="" /></div>
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
-## Developer Workflow
-
-```
-   ╭─────────╮      ╭─────────╮      ╭─────────╮      ╭─────────╮
-   │  IDEA   │  ──▸ │ DESIGN  │  ──▸ │  CODE   │  ──▸ │  BUILD  │
-   ╰─────────╯      ╰─────────╯      ╰─────────╯      ╰─────────╯
-                                                            │
-        ╭───────────────────────────────────────────────────╯
-        ▾
-   ╭─────────╮      ╭─────────╮      ╭─────────╮
-   │ DEPLOY  │  ──▸ │ MONITOR │  ──▸ │ IMPROVE │  ──▸ ↻ back to IDEA
-   ╰─────────╯      ╰─────────╯      ╰─────────╯
-```
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%" alt="" /></div>
-
-## Experience
-
-<table>
-<tr><td valign="top">
+## 04 — TIMELINE
 
 ```
-◆  JUN 2026 – PRESENT   SOFTWARE ENGINEER · HitBox Collectibles
-│  Full-time · Kolkata, West Bengal · Hybrid
-│  MERN Stack · React Native · +5 skills
-│  Shipping alongside: Foodfit — AI meal planner
-│  (React 19 · Express 5 · PostgreSQL · Gemini)
-│
-◆  SEP 2025 – JAN 2026   JAVA SOFTWARE DEVELOPER · Revature
-│  Apprenticeship · Chennai, Tamil Nadu · Remote
-│  Intensive Java full-stack program — Java, SQL, REST APIs,
-│  Spring Boot, Angular and DevOps fundamentals
-│  ✓ Certified: Pre-Training Employee
-│
-◆  APR 2025 – MAY 2025   SDE INTERN · Bluestock™
-│  Internship · India · Remote
-│
-◆  2025   WEB3 PRODUCTS & OPEN SOURCE
-│  Rentify — hybrid Web2 × Web3 marketplace on Sepolia testnet
-│  awesome-mcp-servers — curated MCP index, most forked repo
-│
-◆  JAN 2025   EAST INDIA BLOCKCHAIN SUMMIT · IIT KHARAGPUR
-│  Built and presented a blockchain project for the summit
-│
-◆  2024   FOUNDATIONS
-│  First smart contracts and blockchain apps in JavaScript
-│  DSA in Java — Striver A2Z, NeetCode 150, GFG, LeetCode
-│
-╍╍╍  EDUCATION  ╍╍╍
-│
-◆  MCA '25   Heritage Institute of Technology · Kolkata
-│
-◆  B.Sc      Computer Science
+  ◆  JUN 2026 — PRESENT      SOFTWARE ENGINEER
+  │  HitBox Collectibles · Kolkata, WB · Hybrid
+  │  MERN Stack · React Native · +5 skills
+  │  Shipping alongside: Foodfit — AI meal planner
+  │
+  ◆  SEP 2025 — JAN 2026     JAVA SOFTWARE DEVELOPER
+  │  Revature · Chennai, TN · Remote
+  │  Java · SQL · REST · Spring Boot · Angular · DevOps
+  │  ✓ Certified — Pre-Training Employee
+  │
+  ◆  APR 2025 — MAY 2025     SDE INTERN
+  │  Bluestock™ · India · Remote
+  │
+  ◆  2025                    WEB3 PRODUCTS & OPEN SOURCE
+  │  Rentify — hybrid marketplace on Sepolia testnet
+  │  awesome-mcp-servers — curated MCP index, most forked
+  │
+  ◆  JAN 2025                EAST INDIA BLOCKCHAIN SUMMIT
+  │  IIT Kharagpur · built and presented a project
+  │
+  ◆  2024                    FOUNDATIONS
+  │  First smart contracts and blockchain apps in JS
+  │  DSA in Java — Striver A2Z · NeetCode 150 · GfG
+  │
+  ╍╍  EDUCATION  ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
+  │
+  ◆  MCA '25                 Heritage Institute of Technology
+  │  Kolkata, West Bengal
+  │
+  ◆  B.Sc                    Computer Science
+     Bangabasi College, Sealdah
 ```
 
-</td></tr>
-</table>
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%" alt="" /></div>
-
-## GitHub Analytics
+## 05 — TELEMETRY
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subratadasGit&theme=github_dark" width="88%" alt="Profile summary" />
+<a href="https://github.com/subratadasGit?tab=followers"><img src="https://img.shields.io/github/followers/subratadasGit?style=flat-square&label=FOLLOWERS&labelColor=05080C&color=22E5C8" alt="Followers" /></a>
+<a href="https://github.com/subratadasGit?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20REPOS-60-05080C?style=flat-square&labelColor=05080C&color=22E5C8" alt="Repositories" /></a>
+<a href="https://github.com/subratadasGit/awesome-mcp-servers"><img src="https://img.shields.io/github/forks/subratadasGit/awesome-mcp-servers?style=flat-square&label=MOST%20FORKED&labelColor=05080C&color=A855F7" alt="Forks" /></a>
+<a href="https://github.com/subratadasGit/Foodfit"><img src="https://img.shields.io/github/languages/top/subratadasGit/Foodfit?style=flat-square&label=TOP%20LANG&labelColor=05080C&color=A855F7" alt="Top language" /></a>
+<a href="https://github.com/subratadasGit/Foodfit"><img src="https://img.shields.io/github/last-commit/subratadasGit/Foodfit?style=flat-square&label=LAST%20PUSH&labelColor=05080C&color=A855F7" alt="Last commit" /></a>
 
 <br /><br />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subratadasGit&theme=github_dark" alt="Stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=subratadasGit&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&border_radius=12" alt="Streak" />
+<img height="176" src="https://streak-stats.demolab.com?user=subratadasGit&hide_border=true&background=05080C&stroke=1F2937&ring=22E5C8&fire=A855F7&currStreakLabel=22E5C8&sideLabels=E8EEF4&dates=8B949E&border_radius=4" alt="Streak" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subratadasGit&bg_color=05080C&color=E8EEF4&title_color=22E5C8&line=22E5C8&point=A855F7&area=true&area_color=22E5C8&hide_border=true&radius=4" width="100%" alt="Activity graph" />
+
+</div>
 
 <!--
-  github-readme-stats' public instance returns HTTP 503 (over quota) as of
-  Jul 2026, so the cards above use github-profile-summary-cards instead.
-  To use github-readme-stats, deploy your own instance (2 min, free):
+────────────────────────────────────────────────────────────────────
+  TELEMETRY — WHAT IS AND ISN'T HERE, AND WHY
+
+  Checked 2026-08-04. Three popular card services are currently down,
+  so they are left out rather than shipped as broken images:
+
+    · github-readme-stats  ........  HTTP 503 (public instance over quota)
+    · github-profile-summary-cards   HTTP 500 (fails for every username)
+    · github-profile-trophy .......  HTTP 402 (deployment disabled)
+
+  To bring the big stat cards back, self-host one — about 2 minutes, free:
     1. Fork https://github.com/anuraghazra/github-readme-stats
-    2. Import the fork at vercel.com/new, add a PAT_1 env var
-       (GitHub token with public_repo scope)
-    3. Swap the hostname below and uncomment
+    2. Import the fork at vercel.com/new
+    3. Add env var PAT_1 = a GitHub token with public_repo scope
+    4. Uncomment the two lines below and swap YOUR-INSTANCE
 
-  <img height="180" src="https://YOUR-INSTANCE.vercel.app/api?username=subratadasGit&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12" alt="GitHub stats" />
-  <img height="180" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=subratadasGit&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_radius=12" alt="Top languages" />
+  <img height="176" src="https://YOUR-INSTANCE.vercel.app/api?username=subratadasGit&show_icons=true&count_private=true&hide_border=true&bg_color=05080C&title_color=22E5C8&icon_color=A855F7&text_color=E8EEF4&border_radius=4" alt="GitHub stats" />
+  <img height="176" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=subratadasGit&layout=compact&langs_count=8&hide_border=true&bg_color=05080C&title_color=22E5C8&text_color=E8EEF4&border_radius=4" alt="Top languages" />
+
+────────────────────────────────────────────────────────────────────
+  CONTRIBUTION GRID (snake) — not enabled yet.
+
+  subratadasGit/subratadasGit exists but has no `output` branch, so the
+  SVG below 404s. To turn it on:
+    1. Add .github/workflows/snake.yml to the subratadasGit/subratadasGit repo
+       (use Platane/snk — https://github.com/Platane/snk)
+    2. Actions tab → run "Generate Snake" once
+    3. Confirm the `output` branch now exists, then uncomment this block
+
+  <sub><code>«</code> CONTRIBUTION GRID <code>»</code></sub>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
+  </picture>
+────────────────────────────────────────────────────────────────────
 -->
 
-<br /><br />
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subratadasGit&bg_color=0D1117&color=C9D1D9&title_color=A855F7&line=22D3EE&point=A855F7&area=true&area_color=8B5CF6&hide_border=true&radius=12" width="100%" alt="Activity graph" />
-
-<br />
-
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subratadasGit&theme=github_dark&utcOffset=5.5" alt="Productive time" />
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subratadasGit&theme=github_dark" alt="Repos per language" />
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subratadasGit&theme=github_dark" alt="Most committed language" />
-
-</div>
-
-### Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
-</picture>
-
-<sub><i>Regenerated daily with <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">Platane/snk</a> via <code>.github/workflows/snake.yml</code></i></sub>
-
-</div>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%" alt="" /></div>
-
-## Achievements
-
-<!--
-  Trophies: github-profile-trophy's public instance is returning
-  402 DEPLOYMENT_DISABLED (shut down, not rate-limited) as of Jul 2026.
-  Left out so the section does not show a broken image.
-  To restore, self-host it (fork ryo-ma/github-profile-trophy -> Vercel)
-  and swap the hostname:
-
-  <img src="https://YOUR-INSTANCE.vercel.app/?username=subratadasGit&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophies" />
--->
+## 06 — SIGNAL
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🏆 &nbsp;Events &amp; Summits**
+**`EVENTS`**
 
 <sub>
 ◈ &nbsp;<b>East India Blockchain Summit</b> — IIT Kharagpur · Jan 2025<br />
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/subratadasGit/IIT-KGP_Blockchain">Project repository →</a><br />
-◈ &nbsp;<i>Add other hackathons and placements here</i>
+&nbsp;&nbsp;&nbsp;<a href="https://github.com/subratadasGit/IIT-KGP_Blockchain">project repository →</a>
 </sub>
 
-**🌐 &nbsp;Open Source**
+**`OPEN SOURCE`**
 
 <sub>
-◈ &nbsp;Maintainer of <a href="https://github.com/subratadasGit/awesome-mcp-servers">awesome-mcp-servers</a> — <b>4 stars · 6 forks</b><br />
-◈ &nbsp;Contributor to <a href="https://github.com/DevDisplay">DevDisplay</a> and <a href="https://github.com/CopilotKit/CopilotKit">CopilotKit</a><br />
-◈ &nbsp;<b>60 public repositories</b> · 12 followers
+◈ &nbsp;Maintainer — <a href="https://github.com/subratadasGit/awesome-mcp-servers">awesome-mcp-servers</a><br />
+◈ &nbsp;Contributor — <a href="https://github.com/DevDisplay">DevDisplay</a> · <a href="https://github.com/CopilotKit/CopilotKit">CopilotKit</a><br />
+◈ &nbsp;<a href="https://github.com/subratadasGit?tab=repositories">60 public repositories</a>
 </sub>
 
 </td>
 <td width="50%" valign="top">
 
-**⚔️ &nbsp;DSA &amp; Competitive Programming**
+**`DSA & CP`**
 
 <sub>
-◈ &nbsp;<a href="https://github.com/subratadasGit/StriverDSASheetNOTES455">Striver A2Z DSA Sheet</a> — worked notes in Java<br />
-◈ &nbsp;<a href="https://github.com/subratadasGit/NeetCode150">NeetCode 150</a> + <a href="https://github.com/subratadasGit/LeetCodeDope">LeetCode</a> practice sets<br />
-◈ &nbsp;<a href="https://www.hackerrank.com/profile/subratadas786420">HackerRank</a> · <a href="https://www.geeksforgeeks.org/user/subratadas786420/">GeeksforGeeks</a><br />
-◈ &nbsp;<a href="https://github.com/subratadasGit/ibm-coding-questions">IBM coding questions</a>
+◈ &nbsp;<a href="https://github.com/subratadasGit/StriverDSASheetNOTES455">Striver A2Z</a> — worked notes in Java<br />
+◈ &nbsp;<a href="https://github.com/subratadasGit/NeetCode150">NeetCode 150</a> · <a href="https://github.com/subratadasGit/LeetCodeDope">LeetCode</a> practice sets<br />
+◈ &nbsp;<a href="https://www.hackerrank.com/profile/subratadas786420">HackerRank</a> · <a href="https://www.geeksforgeeks.org/user/subratadas786420/">GeeksforGeeks</a>
 </sub>
 
-**📚 &nbsp;Teaching &amp; Mentoring**
+**`CERTIFICATIONS`**
 
 <sub>
-◈ &nbsp;<a href="https://github.com/subratadasGit/Nodejs_practical_for_students">Node.js practicals for students</a> ⭐1<br />
-◈ &nbsp;<a href="https://github.com/subratadasGit/javascript2024">JavaScript 2024</a> — ⭐1 · forked by 2 learners<br />
-◈ &nbsp;<a href="https://github.com/subratadasGit/ReactTutorialBySubrata">React tutorial series</a> ⭐1
-</sub>
-
-**📜 &nbsp;Certifications**
-
-<sub>
-◈ &nbsp;<b>Certificate of Pre-Training Employee</b> — Revature · 2026<br />
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Java full-stack: Java, SQL, REST APIs, Spring Boot, Angular, DevOps</i><br />
-◈ &nbsp;<i>Add further certifications here</i>
+◈ &nbsp;<b>Pre-Training Employee</b> — Revature · 2026<br />
+&nbsp;&nbsp;&nbsp;<i>Java full-stack: Java, SQL, REST, Spring Boot, Angular, DevOps</i>
 </sub>
 
 </td>
 </tr>
 </table>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%" alt="" /></div>
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
-## Coding Philosophy
-
-<table>
-<tr><td valign="top">
-
-> ### ❝
-> **Design is not decoration.** It is the part of the work that decides whether anyone can use what you built.
->
-> Write the code so the next person understands it without asking. Ship small, measure, then improve. The best abstraction is the one you did not need to write.
-> ### ❞
-
-</td></tr>
-</table>
-
-### Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-</div>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%" alt="" /></div>
-
-## Latest Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Posts appear here automatically once .github/workflows/blog-feed.yml runs. -->
-<!-- Set your feed URL in that workflow (Medium / Dev.to / Hashnode). -->
-- *No posts yet — configure your feed URL in `.github/workflows/blog-feed.yml`.*
-<!-- BLOG-POST-LIST:END -->
-
-<div align="right"><sub><a href="https://medium.com/@your-handle"><b>All articles →</b></a></sub></div>
-
-<!--
-────────────────── SPOTIFY (optional) ──────────────────
-Left commented so the README never shows a broken image.
-To enable:
-  1. Visit https://spotify-github-profile.kittinanx.com and connect Spotify
-  2. Copy the uid it gives you and paste it below
-  3. Uncomment this block
-
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_UID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" alt="Now playing" />
-  </a>
-</div>
-─────────────────────────────────────────────────────────
--->
-
-## Connect
+## 07 — CONNECT
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="90"><a href="https://www.linkedin.com/in/subrata-das-mca/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a><br /><sub>LinkedIn</sub></td>
-<td align="center" width="90"><a href="https://portfolio-alpha-blush-44.vercel.app"><img src="https://cdn.simpleicons.org/googlechrome/22D3EE" height="36" alt="Portfolio" /></a><br /><sub>Portfolio</sub></td>
-<td align="center" width="90"><a href="mailto:subratadasjobs01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a><br /><sub>Email</sub></td>
-<td align="center" width="90"><a href="https://x.com/your-handle"><img src="https://cdn.simpleicons.org/x/E0E0E0" height="34" alt="X" /></a><br /><sub>X</sub></td>
-<td align="center" width="90"><a href="https://instagram.com/your-handle"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a><br /><sub>Instagram</sub></td>
-<td align="center" width="90"><a href="https://discord.com/users/your-id"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" /></a><br /><sub>Discord</sub></td>
-<td align="center" width="90"><a href="https://youtube.com/@your-handle"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="36" alt="YouTube" /></a><br /><sub>YouTube</sub></td>
-</tr>
-<tr>
-<td align="center"><a href="https://leetcode.com/u/your-handle/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="36" alt="LeetCode" /></a><br /><sub>LeetCode</sub></td>
-<td align="center"><a href="https://codeforces.com/profile/your-handle"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="36" alt="Codeforces" /></a><br /><sub>Codeforces</sub></td>
-<td align="center"><a href="https://www.geeksforgeeks.org/user/subratadas786420/"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="36" alt="GeeksforGeeks" /></a><br /><sub>GfG</sub></td>
-<td align="center"><a href="https://www.hackerrank.com/profile/subratadas786420"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="36" alt="HackerRank" /></a><br /><sub>HackerRank</sub></td>
-<td align="center"><a href="https://stackoverflow.com/users/your-id"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow" /></a><br /><sub>Stack&nbsp;Overflow</sub></td>
-<td align="center"><a href="https://medium.com/@your-handle"><img src="https://cdn.simpleicons.org/medium/E0E0E0" height="36" alt="Medium" /></a><br /><sub>Medium</sub></td>
-<td align="center"><a href="https://dev.to/your-handle"><img src="https://skillicons.dev/icons?i=devto" height="40" alt="Dev.to" /></a><br /><sub>Dev.to</sub></td>
-</tr>
-<tr>
-<td align="center" colspan="7"><a href="https://your-handle.hashnode.dev"><img src="https://cdn.simpleicons.org/hashnode/2962FF" height="34" alt="Hashnode" /></a><br /><sub>Hashnode</sub></td>
-</tr>
-</table>
+<a href="https://www.linkedin.com/in/subrata-das-mca/"><img src="https://img.shields.io/badge/LINKEDIN-05080C?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzIyRTVDOCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&labelColor=05080C" alt="LinkedIn" /></a>
+<a href="https://github.com/subratadasGit"><img src="https://img.shields.io/badge/GITHUB-05080C?style=flat-square&logo=github&logoColor=22E5C8&labelColor=05080C" alt="GitHub" /></a>
+<a href="https://x.com/Subrata786420"><img src="https://img.shields.io/badge/X-05080C?style=flat-square&logo=x&logoColor=22E5C8&labelColor=05080C" alt="X" /></a>
+<a href="https://portfolio-alpha-blush-44.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-05080C?style=flat-square&logo=vercel&logoColor=22E5C8&labelColor=05080C" alt="Portfolio" /></a>
+<br />
+<a href="https://www.hackerrank.com/profile/subratadas786420"><img src="https://img.shields.io/badge/HACKERRANK-05080C?style=flat-square&logo=hackerrank&logoColor=A855F7&labelColor=05080C" alt="HackerRank" /></a>
+<a href="https://www.geeksforgeeks.org/user/subratadas786420/"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-05080C?style=flat-square&logo=geeksforgeeks&logoColor=A855F7&labelColor=05080C" alt="GeeksforGeeks" /></a>
+<a href="mailto:subratadasjobs01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-05080C?style=flat-square&logo=gmail&logoColor=A855F7&labelColor=05080C" alt="Email" /></a>
 
-<a href="mailto:subratadasjobs01@gmail.com"><img src="https://img.shields.io/badge/Let's%20work%20together%20%E2%86%92-0D1117?style=for-the-badge&logo=minutemailer&logoColor=A855F7" alt="Contact me" /></a>
+<br /><br />
 
-</div>
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   ◉  OPEN TO WORK  ·  DAPPS  ·  CRYPTO  ·  OPEN SOURCE           │
+│                                                                  │
+│   subratadasjobs01@gmail.com                                     │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-<div align="center">
+<a href="mailto:subratadasjobs01@gmail.com"><img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING%20%E2%86%92-05080C?style=for-the-badge&logo=minutemailer&logoColor=22E5C8&labelColor=05080C" alt="Contact" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%" alt="" />
+<br /><br />
 
-### ⋆ ˚ ｡ ⋆ ୨ Thanks for visiting ୧ ⋆ ｡ ˚ ⋆
-
-<sub>If something here was useful, a ⭐ on a repo goes a long way.</sub>
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
 <br />
 
-<a href="#top"><img src="https://img.shields.io/badge/%E2%86%91%20Back%20to%20Top-0D1117?style=for-the-badge&logoColor=22D3EE" alt="Back to top" /></a>
+<sub><code>«</code> EVERYTHING COMPILES EVENTUALLY <code>»</code></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A855F7,100:8B5CF6&height=140&section=footer" width="100%" alt="" />
+<br /><br />
+
+<sub>If something here was useful, a ★ on a repo goes a long way.</sub>
+
+<br />
+
+<a href="#top"><img src="https://img.shields.io/badge/%E2%86%91%20BACK%20TO%20TOP-05080C?style=flat-square&labelColor=05080C&color=22E5C8" alt="Back to top" /></a>
 
 </div>
