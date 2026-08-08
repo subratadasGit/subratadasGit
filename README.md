@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/marquee.svg" width="100%" alt="" />
 
-<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/scanline.svg" width="88%" alt="Generating my life into code" />
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/scanline.svg" width="100%" alt="Generating my life into code" />
 
 <br />
 
