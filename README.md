@@ -17,14 +17,30 @@
 
 <br /><br />
 
-<sub><code>«</code> ABOUT <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#01--about">01</a> <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#02--stack">02</a> <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#03--work">03</a> <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#04--timeline">04</a> <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#05--telemetry">05</a> <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#06--signal">06</a> <code>»</code>&nbsp;&nbsp; <code>«</code> <a href="#07--connect">07</a> <code>»</code></sub>
+<sub>
+&nbsp;&nbsp;
+<code>«</code> <a href="#01--about">01 ABOUT</a> <code>»</code>
+&nbsp;&nbsp;
+<code>«</code> <a href="#02--tech-stack">02 TECH STACK</a> <code>»</code>
+&nbsp;&nbsp;
+<code>«</code> <a href="#03--experience">03 EXPERIENCE</a> <code>»</code>
+&nbsp;&nbsp;
+<code>«</code> <a href="#04--education">04 EDUCATION</a> <code>»</code>
+&nbsp;&nbsp;
+<code>«</code> <a href="#05--projects">05 PROJECTS</a> <code>»</code>
+&nbsp;&nbsp;
+<code>«</code> <a href="#06--achievements">06 ACHIEVEMENTS</a> <code>»</code>
+&nbsp;&nbsp;
+<code>«</code> <a href="#07--github-stats">07 GITHUB STATS</a> <code>»</code>
+&nbsp;&nbsp;
+<code>«</code> <a href="#08--connect">08 CONNECT</a> <code>»</code>
+</sub>
 
 <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
 </div>
 
 ## 01 — ABOUT
-
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │  CURRENTLY      Software Engineer at HitBox Collectibles         │
@@ -57,8 +73,7 @@ the next person can read.
 
 <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
-## 02 — STACK
-
+## 02 — TECH STACK
 <sub>◈ &nbsp;every logo links to its official documentation</sub>
 
 <br />
@@ -135,8 +150,50 @@ the next person can read.
 
 <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
-## 03 — WORK
+## 03 — EXPERIENCE
+```
+  ◆  JUN 2026 — PRESENT      SOFTWARE ENGINEER
+  │  HitBox Collectibles · Kolkata, WB · Hybrid
+  │  MERN Stack · React Native · +5 skills
+  │  Shipping alongside: Foodfit — AI meal planner
+  │
+  ◆  SEP 2025 — JAN 2026     JAVA SOFTWARE DEVELOPER
+  │  Revature · Chennai, TN · Remote
+  │  Java · SQL · REST · Spring Boot · Angular · DevOps
+  │  ✓ Certified — Pre-Training Employee
+  │
+  ◆  APR 2025 — MAY 2025     SDE INTERN
+  │  Bluestock™ · India · Remote
+  │
+  ◆  2025                    WEB3 PRODUCTS & OPEN SOURCE
+  │  Rentify — hybrid marketplace on Sepolia testnet
+  │  awesome-mcp-servers — curated MCP index, most forked
+  │
+  ◆  JAN 2025                EAST INDIA BLOCKCHAIN SUMMIT
+  │  IIT Kharagpur · built and presented a project
+  │
+  ◆  2024                    FOUNDATIONS
+     First smart contracts and blockchain apps in JS
+     DSA in Java — Striver A2Z · NeetCode 150 · GfG
+```
 
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
+
+## 04 — EDUCATION
+```
+  ◆  2023 — 2025             MASTER OF COMPUTER APPLICATIONS  ·  MCA
+  │  Heritage Institute of Technology · Kolkata, West Bengal
+  │
+  ◆  2020 — 2023             B.Sc COMPUTER SCIENCE
+     Bangabasi College · Sealdah, Kolkata
+```
+
+<sub>◈ &nbsp;<b>Certification</b> — Certificate of Pre-Training Employee, Revature · 2026<br />
+&nbsp;&nbsp;&nbsp;<i>Java full-stack: Java, SQL, REST APIs, Spring Boot, Angular, DevOps</i></sub>
+
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
+
+## 05 — PROJECTS
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -251,46 +308,51 @@ Tailwind design system.
 
 <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
-## 04 — TIMELINE
+## 06 — ACHIEVEMENTS
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```
-  ◆  JUN 2026 — PRESENT      SOFTWARE ENGINEER
-  │  HitBox Collectibles · Kolkata, WB · Hybrid
-  │  MERN Stack · React Native · +5 skills
-  │  Shipping alongside: Foodfit — AI meal planner
-  │
-  ◆  SEP 2025 — JAN 2026     JAVA SOFTWARE DEVELOPER
-  │  Revature · Chennai, TN · Remote
-  │  Java · SQL · REST · Spring Boot · Angular · DevOps
-  │  ✓ Certified — Pre-Training Employee
-  │
-  ◆  APR 2025 — MAY 2025     SDE INTERN
-  │  Bluestock™ · India · Remote
-  │
-  ◆  2025                    WEB3 PRODUCTS & OPEN SOURCE
-  │  Rentify — hybrid marketplace on Sepolia testnet
-  │  awesome-mcp-servers — curated MCP index, most forked
-  │
-  ◆  JAN 2025                EAST INDIA BLOCKCHAIN SUMMIT
-  │  IIT Kharagpur · built and presented a project
-  │
-  ◆  2024                    FOUNDATIONS
-  │  First smart contracts and blockchain apps in JS
-  │  DSA in Java — Striver A2Z · NeetCode 150 · GfG
-  │
-  ╍╍  EDUCATION  ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
-  │
-  ◆  MCA '25                 Heritage Institute of Technology
-  │  Kolkata, West Bengal
-  │
-  ◆  B.Sc                    Computer Science
-     Bangabasi College, Sealdah
-```
+**`EVENTS`**
+
+<sub>
+◈ &nbsp;<b>East India Blockchain Summit</b> — IIT Kharagpur · Jan 2025<br />
+&nbsp;&nbsp;&nbsp;<a href="https://github.com/subratadasGit/IIT-KGP_Blockchain">project repository →</a>
+</sub>
+
+**`OPEN SOURCE`**
+
+<sub>
+◈ &nbsp;Maintainer — <a href="https://github.com/subratadasGit/awesome-mcp-servers">awesome-mcp-servers</a><br />
+◈ &nbsp;Contributor — <a href="https://github.com/DevDisplay">DevDisplay</a> · <a href="https://github.com/CopilotKit/CopilotKit">CopilotKit</a><br />
+◈ &nbsp;<a href="https://github.com/subratadasGit?tab=repositories">60 public repositories</a>
+</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**`DSA & CP`**
+
+<sub>
+◈ &nbsp;<a href="https://github.com/subratadasGit/StriverDSASheetNOTES455">Striver A2Z</a> — worked notes in Java<br />
+◈ &nbsp;<a href="https://github.com/subratadasGit/NeetCode150">NeetCode 150</a> · <a href="https://github.com/subratadasGit/LeetCodeDope">LeetCode</a> practice sets<br />
+◈ &nbsp;<a href="https://www.hackerrank.com/profile/subratadas786420">HackerRank</a> · <a href="https://www.geeksforgeeks.org/user/subratadas786420/">GeeksforGeeks</a>
+</sub>
+
+**`CERTIFICATIONS`**
+
+<sub>
+◈ &nbsp;<b>Pre-Training Employee</b> — Revature · 2026<br />
+&nbsp;&nbsp;&nbsp;<i>Java full-stack: Java, SQL, REST, Spring Boot, Angular, DevOps</i>
+</sub>
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
-## 05 — TELEMETRY
-
+## 07 — GITHUB STATS
 <div align="center">
 
 <a href="https://github.com/subratadasGit?tab=followers"><img src="https://img.shields.io/github/followers/subratadasGit?style=flat-square&label=FOLLOWERS&labelColor=05080C&color=22E5C8" alt="Followers" /></a>
@@ -351,53 +413,7 @@ Tailwind design system.
 
 <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
-## 06 — SIGNAL
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`EVENTS`**
-
-<sub>
-◈ &nbsp;<b>East India Blockchain Summit</b> — IIT Kharagpur · Jan 2025<br />
-&nbsp;&nbsp;&nbsp;<a href="https://github.com/subratadasGit/IIT-KGP_Blockchain">project repository →</a>
-</sub>
-
-**`OPEN SOURCE`**
-
-<sub>
-◈ &nbsp;Maintainer — <a href="https://github.com/subratadasGit/awesome-mcp-servers">awesome-mcp-servers</a><br />
-◈ &nbsp;Contributor — <a href="https://github.com/DevDisplay">DevDisplay</a> · <a href="https://github.com/CopilotKit/CopilotKit">CopilotKit</a><br />
-◈ &nbsp;<a href="https://github.com/subratadasGit?tab=repositories">60 public repositories</a>
-</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**`DSA & CP`**
-
-<sub>
-◈ &nbsp;<a href="https://github.com/subratadasGit/StriverDSASheetNOTES455">Striver A2Z</a> — worked notes in Java<br />
-◈ &nbsp;<a href="https://github.com/subratadasGit/NeetCode150">NeetCode 150</a> · <a href="https://github.com/subratadasGit/LeetCodeDope">LeetCode</a> practice sets<br />
-◈ &nbsp;<a href="https://www.hackerrank.com/profile/subratadas786420">HackerRank</a> · <a href="https://www.geeksforgeeks.org/user/subratadas786420/">GeeksforGeeks</a>
-</sub>
-
-**`CERTIFICATIONS`**
-
-<sub>
-◈ &nbsp;<b>Pre-Training Employee</b> — Revature · 2026<br />
-&nbsp;&nbsp;&nbsp;<i>Java full-stack: Java, SQL, REST, Spring Boot, Angular, DevOps</i>
-</sub>
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
-
-## 07 — CONNECT
-
+## 08 — CONNECT
 <div align="center">
 
 <a href="https://www.linkedin.com/in/subrata-das-mca/"><img src="https://img.shields.io/badge/LINKEDIN-05080C?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzIyRTVDOCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&labelColor=05080C" alt="LinkedIn" /></a>
@@ -425,7 +441,7 @@ Tailwind design system.
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
+
 
 <br />
 
