@@ -355,6 +355,10 @@ Tailwind design system.
 ## 07 — GITHUB STATS
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/scanline.svg" width="76%" alt="Generating" />
+
+<br />
+
 <a href="https://github.com/subratadasGit?tab=followers"><img src="https://img.shields.io/github/followers/subratadasGit?style=flat-square&label=FOLLOWERS&labelColor=05080C&color=22E5C8" alt="Followers" /></a>
 <a href="https://github.com/subratadasGit?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20REPOS-60-05080C?style=flat-square&labelColor=05080C&color=22E5C8" alt="Repositories" /></a>
 <a href="https://github.com/subratadasGit/awesome-mcp-servers"><img src="https://img.shields.io/github/forks/subratadasGit/awesome-mcp-servers?style=flat-square&label=MOST%20FORKED&labelColor=05080C&color=A855F7" alt="Forks" /></a>
