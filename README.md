@@ -369,6 +369,18 @@ Tailwind design system.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subratadasGit&bg_color=05080C&color=E8EEF4&title_color=22E5C8&line=22E5C8&point=A855F7&area=true&area_color=22E5C8&hide_border=true&radius=4" width="100%" alt="Activity graph" />
 
+<br /><br />
+
+<sub><code>«</code> CONTRIBUTION GRID <code>»</code></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake-dark.svg" width="100%" alt="Contribution snake eating my GitHub contribution grid" />
+</picture>
+
+<sub><i>Regenerated twice daily by <a href="https://github.com/Platane/snk">Platane/snk</a> via <code>.github/workflows/snake.yml</code></i></sub>
+
 </div>
 
 <!--
@@ -392,22 +404,14 @@ Tailwind design system.
   <img height="176" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=subratadasGit&layout=compact&langs_count=8&hide_border=true&bg_color=05080C&title_color=22E5C8&text_color=E8EEF4&border_radius=4" alt="Top languages" />
 
 ────────────────────────────────────────────────────────────────────
-  CONTRIBUTION GRID (snake) — not enabled yet.
+  CONTRIBUTION GRID — live, see the <picture> block above.
 
-  subratadasGit/subratadasGit exists but has no `output` branch, so the
-  SVG below 404s. To turn it on:
-    1. Add .github/workflows/snake.yml to the subratadasGit/subratadasGit repo
-       (use Platane/snk — https://github.com/Platane/snk)
-    2. Actions tab → run "Generate Snake" once
-    3. Confirm the `output` branch now exists, then uncomment this block
+  Built by .github/workflows/snake.yml (Platane/snk) on push and every
+  12h, force-pushed to the `output` branch. Palette is passed as query
+  params on the output filenames, with '#' encoded as %23.
 
-  <sub><code>«</code> CONTRIBUTION GRID <code>»</code></sub>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
-  </picture>
+  If it ever 404s, check the Actions tab: the publish step needs
+  permissions: contents: write, or it cannot write the output branch.
 ────────────────────────────────────────────────────────────────────
 -->
 
