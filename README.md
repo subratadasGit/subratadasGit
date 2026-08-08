@@ -17,24 +17,14 @@
 
 <br /><br />
 
-<sub>
-&nbsp;&nbsp;
-<code>«</code> <a href="#01--about">01 ABOUT</a> <code>»</code>
-&nbsp;&nbsp;
-<code>«</code> <a href="#02--tech-stack">02 TECH STACK</a> <code>»</code>
-&nbsp;&nbsp;
-<code>«</code> <a href="#03--experience">03 EXPERIENCE</a> <code>»</code>
-&nbsp;&nbsp;
-<code>«</code> <a href="#04--education">04 EDUCATION</a> <code>»</code>
-&nbsp;&nbsp;
-<code>«</code> <a href="#05--projects">05 PROJECTS</a> <code>»</code>
-&nbsp;&nbsp;
-<code>«</code> <a href="#06--achievements">06 ACHIEVEMENTS</a> <code>»</code>
-&nbsp;&nbsp;
-<code>«</code> <a href="#07--github-stats">07 GITHUB STATS</a> <code>»</code>
-&nbsp;&nbsp;
-<code>«</code> <a href="#08--connect">08 CONNECT</a> <code>»</code>
-</sub>
+<a href="#01--about"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-01.svg" alt="ABOUT" /></a>
+<a href="#02--tech-stack"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-02.svg" alt="TECH STACK" /></a>
+<a href="#03--experience"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-03.svg" alt="EXPERIENCE" /></a>
+<a href="#04--education"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-04.svg" alt="EDUCATION" /></a>
+<a href="#05--projects"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-05.svg" alt="PROJECTS" /></a>
+<a href="#06--achievements"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-06.svg" alt="ACHIEVEMENTS" /></a>
+<a href="#07--github-stats"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-07.svg" alt="GITHUB STATS" /></a>
+<a href="#08--connect"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-08.svg" alt="CONNECT" /></a>
 
 <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
