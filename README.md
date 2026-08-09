@@ -17,14 +17,14 @@
 
 <br /><br />
 
-<a href="#01--about"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/glass-01.svg?v=3" alt="ABOUT" /></a>
-<a href="#02--tech-stack"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/glass-02.svg?v=3" alt="TECH STACK" /></a>
-<a href="#03--experience"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/glass-03.svg?v=3" alt="EXPERIENCE" /></a>
-<a href="#04--education"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/glass-04.svg?v=3" alt="EDUCATION" /></a>
-<a href="#05--projects"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/glass-05.svg?v=3" alt="PROJECTS" /></a>
-<a href="#06--achievements"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/glass-06.svg?v=3" alt="ACHIEVEMENTS" /></a>
-<a href="#07--github-stats"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/glass-07.svg?v=3" alt="GITHUB STATS" /></a>
-<a href="#08--connect"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/glass-08.svg?v=3" alt="CONNECT" /></a>
+<a href="#01--about"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-01.svg?v=4" alt="ABOUT" /></a>
+<a href="#02--tech-stack"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-02.svg?v=4" alt="TECH STACK" /></a>
+<a href="#03--experience"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-03.svg?v=4" alt="EXPERIENCE" /></a>
+<a href="#04--education"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-04.svg?v=4" alt="EDUCATION" /></a>
+<a href="#05--projects"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-05.svg?v=4" alt="PROJECTS" /></a>
+<a href="#06--achievements"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-06.svg?v=4" alt="ACHIEVEMENTS" /></a>
+<a href="#07--github-stats"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-07.svg?v=4" alt="GITHUB STATS" /></a>
+<a href="#08--connect"><img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/btn-08.svg?v=4" alt="CONNECT" /></a>
 
 <img src="https://raw.githubusercontent.com/subratadasGit/subratadasGit/main/assets/rule.svg" width="100%" alt="" />
 
